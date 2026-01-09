@@ -6,3 +6,4 @@ The world of blockchain finance is called DeFi and stands for decentralized fina
 Dapp is a decentralized application 
 A blockchain is a shared ledger for transactions without the need for a centralized authority 
 The main problem of blockchain and smart contract is the oracle problem
+An oracle is any service or device that delivers data to these decentralized blockchains, it basically connects blockchain to real world data. 
