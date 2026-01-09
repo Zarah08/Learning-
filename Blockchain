@@ -7,3 +7,7 @@ Dapp is a decentralized application
 A blockchain is a shared ledger for transactions without the need for a centralized authority 
 The main problem of blockchain and smart contract is the oracle problem
 An oracle is any service or device that delivers data to these decentralized blockchains, it basically connects blockchain to real world data. 
+We need a decentralized oracle network because we cannot rely on a single source DON (Decentralized oracle network)
+Hybrid smart contracts are smart contracts that have a combination of off chain and on chain data logic 
+They are more mportant than normal smart contracts because they have a connection with the real world data 
+Chailinks helps us bring off chain data onchain in a decentralized way 
