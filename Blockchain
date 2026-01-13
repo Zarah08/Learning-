@@ -15,5 +15,7 @@ Use cases: In defi applications to get current status
 Insurance, flight delays, gaming
 A smart contract is an agreement, contract or set of instructions that is deployed on a decentralized blockchain
 once a smart contract  is deployed it cannot be altered, it is automatically executed and everyone can see it
-Ethereum Virtual Machine EVM is the engine that actually makes smart contracts work
+Ethereum Virtual Machine EVM is the engine that actually makes smart contracts work (OS for smart contracts)
 EVM compatible vs EVM equivalent
+EVM equivalent is when a chain works exactly as an Ethereum works 
+EVM compatible works thesame way but may require some changes or different tooling
