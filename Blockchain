@@ -19,3 +19,5 @@ Ethereum Virtual Machine EVM is the engine that actually makes smart contracts w
 EVM compatible vs EVM equivalent
 EVM equivalent is when a chain works exactly as an Ethereum works 
 EVM compatible works thesame way but may require some changes or different tooling
+
+A Testnet is a blockchain that allows us to simulate trnsactions and deploy smart contracts without using real funds 
