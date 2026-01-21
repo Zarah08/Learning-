@@ -23,3 +23,4 @@ EVM compatible works thesame way but may require some changes or different tooli
 A Testnet is a blockchain that allows us to simulate trnsactions and deploy smart contracts without using real funds eg tenderly
 A gas is the amount of the computational power that your transaction needs to be processed 
 Gas price is the price you are willing to pay for gas 
+Transaction fee = gas used * gas price
