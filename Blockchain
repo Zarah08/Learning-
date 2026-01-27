@@ -28,5 +28,11 @@ Blockchains need to prevent 3 things: 1- Sybil attacks (one person pretending to
 proof of work and proof of stake 2- How to know if a transaction is truly immutable (final) 3- The consensus problemm which is how to get all computers 
 to agree on the final state of the system
 
+Proof of Work (PoW): Used by Bitcoin, PoW makes participation expensive through computational effort. To participate in the network's consensus, a node (or "miner") must solve a complex mathematical puzzle that requires immense computing power and electricity. An attacker can create many identities, but they cannot fake the massive real-world cost of energy and hardware required to make those identities influential.
+
+Proof of Stake (PoS): Used by Ethereum, PoS makes participation expensive through a financial stake. To participate as a validator, a user must lock up a significant amount of the network's native cryptocurrency as collateral. An attacker is free to create multiple validator nodes, but they would need a vast amount of capital to stake for all of them. Furthermore, if they are caught acting dishonestly, their staked funds are forfeited ("slashed").
+
+It's a common misconception to refer to PoW and PoS as consensus mechanisms themselves. Technically, they are the Sybil resistance components that are part of a larger consensus algorithm. They are the gatekeepers that ensure only those with a tangible, costly stake can participate in forming consensus.
+
 
 
