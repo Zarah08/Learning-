@@ -25,6 +25,8 @@ A gas is the amount of the computational power that your transaction needs to be
 Gas price is the price you are willing to pay for gas 
 Transaction fee = gas used * gas price
 Blockchains need to prevent 3 things: 1- Sybil attacks (one person pretending to be many people) prevented using the civil resistance mechanism i.e 
-proof of work and proof of stake
+proof of work and proof of stake 2- How to know if a transaction is truly immutable (final) 3- The consensus problemm which is how to get all computers 
+to agree on the final state of the system
+
 
 
