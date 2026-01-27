@@ -24,3 +24,4 @@ A Testnet is a blockchain that allows us to simulate trnsactions and deploy smar
 A gas is the amount of the computational power that your transaction needs to be processed 
 Gas price is the price you are willing to pay for gas 
 Transaction fee = gas used * gas price
+Blockchains need to prevent 3 things: 1- Sybil attacks
