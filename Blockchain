@@ -34,5 +34,6 @@ Proof of Stake (PoS): Used by Ethereum, PoS makes participation expensive throug
 
 It's a common misconception to refer to PoW and PoS as consensus mechanisms themselves. Technically, they are the Sybil resistance components that are part of a larger consensus algorithm. They are the gatekeepers that ensure only those with a tangible, costly stake can participate in forming consensus.
 Proof of Work (PoW) is the foundational consensus mechanism that powers pioneering blockchains like Bitcoin. To truly understand how these networks function, it's essential to grasp key concepts like mining, computational power, and the cryptographic principles that ensure their security. 
+A hash is a unique, fixed-length string of characters generated from any piece of digital data. 
 
 
