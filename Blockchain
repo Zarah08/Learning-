@@ -38,4 +38,5 @@ A hash is a unique, fixed-length string of characters generated from any piece o
 Mining is the process of finding solution to the blockchain problem
 A block is a list of transactions mined together
 A nounce is a number used to find the solution to a blockchain problem once
+It is also used in ethereum to define transaction number for an account/address
 
