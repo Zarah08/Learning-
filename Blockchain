@@ -39,4 +39,5 @@ Mining is the process of finding solution to the blockchain problem
 A block is a list of transactions mined together
 A nounce is a number used to find the solution to a blockchain problem once
 It is also used in ethereum to define transaction number for an account/address
+In pow nodes are called miners, A fork is where the blockchain splits
 
