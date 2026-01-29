@@ -36,5 +36,6 @@ It's a common misconception to refer to PoW and PoS as consensus mechanisms them
 Proof of Work (PoW) is the foundational consensus mechanism that powers pioneering blockchains like Bitcoin. To truly understand how these networks function, it's essential to grasp key concepts like mining, computational power, and the cryptographic principles that ensure their security. 
 A hash is a unique, fixed-length string of characters generated from any piece of digital data. 
 Mining is the process of finding solution to the blockchain problem
+A block is a list of transactions mined together
 
 
