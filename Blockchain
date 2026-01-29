@@ -48,3 +48,8 @@ The private key is the most critical piece of secret data you own. Think of it a
 Function: To sign and authorize transactions.
 Security: Your private key must be kept secret at all times. Never share it with anyone. If someone gains access to your private key, they gain complete control over your account and can sign transactions to steal your funds.
 
+Public Key
+The public key is derived from your private key and is safe to share with others. In our analogy, this is like your public mailbox address.
+Function: To allow others to verify that a signature was created by the corresponding private key.
+The One-Way Relationship: You can easily generate a public key from a private key, but it is computationally impossible to reverse the process and derive a private key from a public key. This one-way function is what makes public verification possible without compromising your security.
+
