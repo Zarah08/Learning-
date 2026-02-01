@@ -53,3 +53,5 @@ The public key is derived from your private key and is safe to share with others
 Function: To allow others to verify that a signature was created by the corresponding private key.
 The One-Way Relationship: You can easily generate a public key from a private key, but it is computationally impossible to reverse the process and derive a private key from a public key. This one-way function is what makes public verification possible without compromising your security.
 ECDSA - Signatures
+
+A seed phrase is used to generate private keys 
