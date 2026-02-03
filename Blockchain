@@ -12,7 +12,7 @@ Hybrid smart contracts are smart contracts that have a combination of off chain 
 They are more mportant than normal smart contracts because they have a connection with the real world data 
 Chailinks helps us bring off chain data onchain in a decentralized way 
 Use cases: In defi applications to get current status
-Insurance, flight delays, gaming
+Insurance, flight delays, gaming.
 A smart contract is an agreement, contract or set of instructions that is deployed on a decentralized blockchain
 once a smart contract  is deployed it cannot be altered, it is automatically executed and everyone can see it
 Ethereum Virtual Machine EVM is the engine that actually makes smart contracts work (OS for smart contracts)
