@@ -56,5 +56,7 @@ This one-way function is what makes public verification possible without comprom
 ECDSA - Signatures
 
 Private keys and public keys are mathematically signed together, it is a one way mathematical relationship your public key and be used to verify the pprivate key but it does not give access to your private key.
+A public key is the wallet address but a wallet address is the shortened version or hashed version of the public key
+
 
 A seed phrase is used to generate private keys, it is a master key that can be used to create all keys for unlimited doors or unlimited accounts 
