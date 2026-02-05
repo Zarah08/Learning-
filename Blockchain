@@ -54,6 +54,6 @@ Function: To allow others to verify that a signature was created by the correspo
 The One-Way Relationship: You can easily generate a public key from a private key, but it is computationally impossible to reverse the process and derive a private key from a public key. This one-way function is what makes public verification possible without compromising your security.
 ECDSA - Signatures
 
-Private keys and public keys are mathematically signed together
+Private keys and public keys are mathematically signed together, it is a one way mathematical relationship your public key and be used to verify the pprivate key but it does not give access to your private key.
 
 A seed phrase is used to generate private keys, it is a master key that can be used to create all keys for unlimited doors or unlimited accounts 
