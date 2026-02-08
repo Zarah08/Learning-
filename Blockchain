@@ -63,3 +63,5 @@ A private key has to stay private else your account can be sccessed by someone e
 Ethereum key is a shorted version of public key and it is derived from the public key it is still hashed but simpler
 
 A seed phrase is used to generate private keys, it is a master key that can be used to create all keys for unlimited doors or unlimited accounts 
+Function: All of your private keys are deterministically derived from this single phrase. If you lose access to your wallet, you can restore it on any device using only your seed phrase.
+
