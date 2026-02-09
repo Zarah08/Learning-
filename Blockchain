@@ -67,3 +67,5 @@ A seed phrase is used to generate private keys, it is a master key that can be u
 Function: All of your private keys are deterministically derived from this single phrase. If you lose access to your wallet, you can restore it on any device using only your seed phrase.
 Security: Protecting your seed phrase is the single most important rule of wallet security. If someone gets your seed phrase, they have access to every account and all the funds within that wallet.
 
+POS (Prof of Stake)
+To enforce honesty, PoS introduces a severe penalty known as slashing.
