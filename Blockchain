@@ -70,3 +70,4 @@ Security: Protecting your seed phrase is the single most important rule of walle
 POS (Prof of Stake)
 The security of a Proof of Stake network is not based on computational work but on a powerful economic model. The system operates on the assumption that at least two-thirds of the total staked value is controlled by honest actors who will follow the protocol's rules.
 To enforce honesty, PoS introduces a severe penalty known as slashing.
+How does proof of work attain finality?
