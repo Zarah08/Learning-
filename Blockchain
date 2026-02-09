@@ -139,3 +139,49 @@ Client Implementation: Independent teams that maintain Ethereum's client softwar
 Testing: The changes are rigorously tested on public testnets to ensure they work as intended.
 Activation: Core developers set a specific block number for the hard fork to go live. They announce this date, giving node operators a window of several weeks to update their software.
 The Fork: When the network reaches the designated block, nodes that have updated their software begin enforcing the new rules, while those that haven't are left on the old chain.
+
+What is an Ethereum Improvement Proposal (EIP)?
+An EIP, or Ethereum Improvement Proposal, is a formal design document that proposes a new feature, process, or standard for the Ethereum network. It is the primary mechanism through which anyone can suggest improvements or changes to Ethereum's core protocol, client APIs, or contract standards. Think of an EIP as a detailed blueprint for a potential upgrade. This process is open and decentralized; anyone in the community, from core developers to researchers and even informed users, can write and submit an EIP for consideration.
+
+What is an Ethereum Request for Comment (ERC)?
+An ERC, or Ethereum Request for Comment, is a specific type of EIP that focuses on creating standards at the application layer. Its primary goal is to ensure that different applications, tokens, and smart contracts built on Ethereum can interact with each other seamlessly.
+The relationship is simple: all ERCs are EIPs, but not all EIPs are ERCs. This is like saying all squares are rectangles, but not all rectangles are squares. ERCs are a specialized subset of EIPs dedicated to application-level functionality.
+
+EIPs are the engine of Ethereum's evolution, providing a formal, community-driven process for upgrading the core network. ERCs are a vital subset of EIPs that create the rules for application-level interactions, fostering the interoperability that allows the ecosystem to thrive. This decentralized approach ensures that anyone with a good idea can contribute to building a better Ethereum.
+
+Gas fees are the small amounts of ETH you pay to use Ethereum.
+Any time you
+send ETH
+send tokens
+use an app (DeFi, NFT, etc.)
+you must pay a gas fee.
+
+Why do gas fees exist?
+Gas fees exist for two main reasons:
+1. To pay validators
+Validators are the computers that:
+check transactions, keep Ethereum running, add new blocks
+Gas fees are how they get rewarded for doing this work.
+2. To stop spam
+If transactions were free:
+someone could send millions of fake transactions, the network would slow or crash
+Gas fees make spamming expensive, so people only send useful transactions.
+
+The more usage on a blockchain the higher the gas fees 
+Turing complete: with limited computational power it can solve any problem that a computer can solve 
+Gwai are just a fraction of ETH
+
+Chain ID: A unique number identifying the target blockchain (e.g., 1 for Ethereum Mainnet, 111555111 for the Sepolia testnet). This crucial field prevents "replay attacks," where a transaction intended for one network could be maliciously re-broadcast on another.
+
+Nonce: Short for "Number Used Once," the nonce is a transaction counter for the sending account, starting at 0. Each new transaction from that account must have a nonce exactly one higher than the last. This strict ordering prevents transactions from being processed out of sequence or duplicated.
+Gas Parameters: These fields define the fee you are willing to pay to have your transaction processed.
+Max Priority Fee Per Gas: This is the "tip" you offer directly to the validator to incentivize them to include your transaction in the next block.
+Max Fee Per Gas: This sets the absolute maximum total fee (base fee + tip) you are willing to pay per unit of gas. Any difference between this max fee and the actual fee paid is refunded to you.
+Gas Limit: The maximum amount of computational work (gas) your transaction is allowed to consume. This acts as a safety measure to prevent buggy smart contracts from accidentally draining your entire account balance.
+
+MEMPOOL
+When a node receives your transaction, it first performs a series of quick validation checks. It verifies the digital signature is correct and confirms that you have enough ETH in your account to cover both the transaction's value and the maximum potential gas fee.
+If the transaction passes these checks, the node adds it to its local Mempool (short for Memory Pool). The mempool is best understood as a "waiting room" for valid, pending transactions that have not yet been included in a block. The node then broadcasts this transaction to its peers, and they broadcast it to theirs, ensuring it quickly propagates across the entire 
+network.
+
+This entire, intricate lifecycle applies to transactions initiated by standard user-controlled accounts, known as Externally Owned Accounts (EOAs). Each step, from the cryptographic signature to network-wide attestation, is designed to ensure that every change to Ethereum's shared state is authorized, valid, and permanent.
