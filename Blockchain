@@ -105,3 +105,6 @@ Reorgs happen all the time, when two miners solve the computational problem at t
 MEV (Maximal Extractable Value)  attack actually occur on Ethereum 
 Mempool is where pending transactions sit (a waiting room)
 The person building the block validates transactions this is called the sandwich attack and is a type of MEV
+Replay attacks reusing valid signatures or valid transaction just like reusing a physical cheque 
+
+When an attacker suceeds the validators can fork out or create a different chain without the malicious transaction on it the attackers chain will automatically be abandoned.
