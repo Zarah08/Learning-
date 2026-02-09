@@ -95,3 +95,9 @@ Staking is what incentives the validatora to act honestly like a structured rewa
 If they act maliciously their stake o rportion is slashed meaning they lose their money they get destroyed
 
 Vulnerability attack
+1- What happens when one has alot of computational power and also alot of ETH stake? This is where the 51% attack comes in 
+In proof of work the 51% attack comes in when someone controls more than half of the computational power
+51% attack in pos is when someone has control over 50% of the staked value in the system if someone has more than 2/3% of staked ETH they have complete control over concensus.
+
+When history gets rewritten it is called a Blockchain reorganization or Blockchain REORG 
+Reorgs happen all the time, when two miners solve the computational problem at thesame time and the blockchain spilts temporarily this is called a fork, one blockchain eventually becomes longer and wins The deeper your confirmations the more difficult it is for reorgs to undo it
