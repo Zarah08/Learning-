@@ -101,3 +101,5 @@ In proof of work the 51% attack comes in when someone controls more than half of
 
 When history gets rewritten it is called a Blockchain reorganization or Blockchain REORG 
 Reorgs happen all the time, when two miners solve the computational problem at thesame time and the blockchain spilts temporarily this is called a fork, one blockchain eventually becomes longer and wins The deeper your confirmations the more difficult it is for reorgs to undo it
+
+MEV attack actually occur on Ethereum 
