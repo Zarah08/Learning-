@@ -71,3 +71,22 @@ POS (Prof of Stake)
 The security of a Proof of Stake network is not based on computational work but on a powerful economic model. The system operates on the assumption that at least two-thirds of the total staked value is controlled by honest actors who will follow the protocol's rules.
 To enforce honesty, PoS introduces a severe penalty known as slashing.
 How does proof of work attain finality?
+Finality in Proof of Stake (PoS) is achieved through validator voting + economic penalties, rather than brute-force computation like in Proof of Work.
+
+Slot vs Epoch
+A slot is the smallest unit of time in Ethereum PoS.
+1 slot = 12 seconds
+In each slot:
+One validator is chosen to propose a block
+Other validators attest (vote) on it
+
+What is an epoch?
+An epoch is a group of slots.
+1 epoch = 32 slots
+Since each slot is 12 seconds:
+1 epoch = 32 × 12 = 384 seconds
+That’s 6 minutes 24 seconds
+Epochs are important because:
+Validator rewards/penalties are calculated per epoch
+Finality decisions happen at epoch boundaries
+Validator duties (who proposes, who attests) are reshuffled
