@@ -68,4 +68,5 @@ Function: All of your private keys are deterministically derived from this singl
 Security: Protecting your seed phrase is the single most important rule of wallet security. If someone gets your seed phrase, they have access to every account and all the funds within that wallet.
 
 POS (Prof of Stake)
+The security of a Proof of Stake network is not based on computational work but on a powerful economic model. The system operates on the assumption that at least two-thirds of the total staked value is controlled by honest actors who will follow the protocol's rules.
 To enforce honesty, PoS introduces a severe penalty known as slashing.
