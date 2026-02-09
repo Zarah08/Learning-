@@ -108,3 +108,5 @@ The person building the block validates transactions this is called the sandwich
 Replay attacks reusing valid signatures or valid transaction just like reusing a physical cheque 
 
 When an attacker suceeds the validators can fork out or create a different chain without the malicious transaction on it the attackers chain will automatically be abandoned.
+
+A blockchain or protocol upgrade is a coordinated change to the rules that govern how ethereum works 
