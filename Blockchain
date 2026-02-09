@@ -90,3 +90,5 @@ Epochs are important because:
 Validator rewards/penalties are calculated per epoch
 Finality decisions happen at epoch boundaries
 Validator duties (who proposes, who attests) are reshuffled
+
+Staking is what incentives the validatora to act honestly like a structured reward
