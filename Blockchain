@@ -340,3 +340,65 @@ Optimistic Rollups: Trust first, check later → slower withdrawals.
 ZK Rollups: Prove first, trust automatically → fast withdrawals.
 
 A sequencer has two job roles 1- orders transactions, 2- Bundles Transactions together (sometimes) 
+
+Rollups = Ethereum helpers.
+Ethereum is slow and expensive, so rollups help by doing most work elsewhere, then reporting back to Ethereum.
+
+But the question is:
+👉 How much can we TRUST these rollups? That’s where Rollup Stages come in.
+Think of rollup stages like learning to ride a bike 🚲
+
+The bike analogy (remember this, it makes everything click)
+Stage 0 → Bike with FULL training wheels
+Stage 1 → Bike with SOME training wheels
+Stage 2 → Bike with NO training wheels (fully independent)
+
+The more training wheels = the more humans you must trust.
+Stage 0 — “Full training wheels” 🍼
+This is baby mode.
+
+What it really means:
+A team controls a lot
+They can pause things
+They can upgrade the system instantly
+Users must mostly trust the team
+What is good at Stage 0?
+The code is open-source (people can inspect it)
+Data is on Ethereum, so cheating is harder
+
+What’s bad?
+If the team messes up or acts badly, users can’t easily protect themselves
+If they change the rules suddenly, users may not have time to withdraw
+📌 Stage 0 = “Please trust us, we’re still building”
+Stage 1 — “Better, but still supervised” 👀
+Now the rollup is growing up.
+
+What improves:
+Smart contracts now enforce rules (not just humans)
+Proof systems actually work on-chain
+Users can exit by themselves, without begging the team
+Still not perfect:
+A Security Council still exists (emergency power)
+Humans can still intervene sometimes
+📌 Stage 1 = “We’re mostly automated, but adults are nearby”
+
+Stage 2 — “No training wheels” 🏆
+This is the goal.
+What this means in real life:
+No central team controlling things
+Smart contracts run everything
+Anyone can verify proofs
+Users ALWAYS have time to exit before upgrades
+
+Even if:
+The team disappears
+The company shuts down
+👉 Your funds are still safe
+📌 Stage 2 = “Trust the code, not the people”
+
+Important clarification (VERY IMPORTANT)
+❌ Stages do NOT mean “safe vs unsafe”
+✅ They mean how decentralized and independent the rollup is
+A Stage 0 rollup can still be technically secure, but:
+You’re trusting humans
+Not just math and code
