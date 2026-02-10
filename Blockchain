@@ -285,3 +285,13 @@ Casting Votes: Users cast their votes by signing a blockchain transaction. The w
 Tallying Results: The smart contract automatically and transparently tracks and tallies every vote. The results are immutable and publicly visible on the blockchain.
 
 Execution: Once the voting period concludes, the outcome is determined. If the proposal achieves the required majority (known as a quorum), the changes are automatically executed by the smart contract. The proposed code is implemented, altering the protocol's functions according to the community's decision.
+
+
+The Challenges of Decentralized Governance
+While revolutionary, this model is not without its challenges. The system is still evolving and faces several key problems.
+
+Voter Apathy and Whale Influence: Many people purchase governance tokens purely for price speculation and do not participate in voting. This low voter turnout can lead to a situation where large token holders, or "whales," have an outsized influence on outcomes, potentially re-centralizing decision-making power.
+
+Technical Complexity: To make an informed decision, voters may need to understand complex economic models or even be able to read smart contract code. This creates a high barrier to entry for non-technical community members.
+
+Practical Costs: Voting is an on-chain transaction, which means it costs gas fees. Furthermore, some protocols require tokens to be locked for the duration of the proposal and voting period, making them temporarily illiquid.
