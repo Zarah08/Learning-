@@ -297,4 +297,4 @@ Technical Complexity: To make an informed decision, voters may need to understan
 Practical Costs: Voting is an on-chain transaction, which means it costs gas fees. Furthermore, some protocols require tokens to be locked for the duration of the proposal and voting period, making them temporarily illiquid.
 
 
-A layer 1 or L1 is a blockchain in its purest form where the noed contribute to sybill resistance and help the chain to reach concensus
+A layer 1 or L1 is a blockchain in its purest form where the noed contribute to sybill resistance and help the chain to reach concensus, also called the settlement layer
