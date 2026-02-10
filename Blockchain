@@ -298,3 +298,15 @@ Practical Costs: Voting is an on-chain transaction, which means it costs gas fee
 
 
 A layer 1 or L1 is a blockchain in its purest form where the noed contribute to sybill resistance and help the chain to reach concensus, also called the settlement layer eg bitcoin, ethereum, solana
+Anything that hooks back to layer1 or ethereum is called layer 2, it is a network built on top of layer 1 and it extends its capabilities 
+
+Think of Layer 1 (L1), like Ethereum, as a busy highway. Every car (transaction) wants to drive on it, but there’s limited space, so it gets slow and expensive.
+Layer 2 (L2) Rollups are like a big shuttle bus system:
+Instead of every car driving on the highway, cars get on a bus (L2).
+The bus drives off the main highway and collects lots of cars together.
+After picking up many cars, the bus goes onto the highway just once and drops all the cars at once.
+In crypto terms:
+Transactions happen on L2 (the bus) → faster and cheaper.
+Many transactions are bundled together → “rolled up.”
+Only a single summary of all these transactions is recorded on L1 (the highway) → secure and verified.
+So rollups let Ethereum (or other L1s) handle more transactions quickly and cheaply, while still keeping the security of the main network.
