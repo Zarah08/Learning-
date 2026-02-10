@@ -310,3 +310,33 @@ Transactions happen on L2 (the bus) → faster and cheaper.
 Many transactions are bundled together → “rolled up.”
 Only a single summary of all these transactions is recorded on L1 (the highway) → secure and verified.
 So rollups let Ethereum (or other L1s) handle more transactions quickly and cheaply, while still keeping the security of the main network.
+
+1. Optimistic Rollups (OR)
+How they work: They assume that all the transactions they roll up are valid by default (that’s why it’s called “optimistic”).
+Security check: If someone thinks a transaction is wrong, they can challenge it within a certain period. If the challenge is correct, the bad transaction is rolled back.
+
+Pros:
+Can handle more complex smart contracts easily.
+Cheaper than L1 for users.
+
+Cons:
+There’s a waiting period (sometimes a week) for withdrawals back to L1 because of the challenge system.
+Analogy: Imagine a teacher who trusts all students’ homework is correct. If someone spots a mistake, they report it, and the teacher fixes it later.
+
+2. ZK (Zero-Knowledge) Rollups
+How they work: Every batch of transactions comes with a cryptographic proof that proves all transactions are valid before they get posted to L1. No one has to “trust” it.
+Has a prover and a verifier 
+Pros:
+Very fast and secure.
+Withdrawals to L1 are almost instant.
+
+Cons:
+Harder to support very complex smart contracts.
+Slightly more complicated technology.
+Analogy: Imagine a student submits homework with a stamp of proof that it’s 100% correct. The teacher doesn’t need to check it—they know it’s valid automatically.
+
+Summary in one sentence:
+Optimistic Rollups: Trust first, check later → slower withdrawals.
+ZK Rollups: Prove first, trust automatically → fast withdrawals.
+
+A sequencer has two job roles 1- orders transactions, 2- Bundles Transactions together (sometimes) 
