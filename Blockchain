@@ -402,3 +402,8 @@ Important clarification (VERY IMPORTANT)
 A Stage 0 rollup can still be technically secure, but:
 You’re trusting humans
 Not just math and code
+
+Bridging means taking funds from one chain and getting them on the other chain 
+We have two bridging mechanisms: locking and unlocking method (tokens are locked on the source chain and are released or unlocked on the destination chain). Minting and burning bridge(on the source chain, the tokens are burned and then the sources are minted on the destination chain 
+
+
