@@ -202,3 +202,9 @@ Derivatives and Trading Platforms: More advanced platforms like GMX offer comple
 Yield Farming and Liquidity Mining: Many protocols incentivize participation by rewarding users with additional tokens for providing liquidity (funds) to their platform.
 
 Asset Management: Platforms like Yearn Finance act as "robo-advisors," automatically deploying a user's capital across various DeFi protocols to optimize their returns (yield) based on different strategies.
+
+A token is just a digital representation of a value of some description or utility on the blockchain
+They are digital blockchain assets 
+
+Native tokens are not created by smartcontracts they are baked into the blockchain itself, Every blockchain has its own native currrency Ethereum has ETH, Bitcoin has BTC
+Native tokens are types of Fungible tokens 
