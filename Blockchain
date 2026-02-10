@@ -295,3 +295,6 @@ Voter Apathy and Whale Influence: Many people purchase governance tokens purely 
 Technical Complexity: To make an informed decision, voters may need to understand complex economic models or even be able to read smart contract code. This creates a high barrier to entry for non-technical community members.
 
 Practical Costs: Voting is an on-chain transaction, which means it costs gas fees. Furthermore, some protocols require tokens to be locked for the duration of the proposal and voting period, making them temporarily illiquid.
+
+
+A layer 1 or L1 is a blockchain in its purest form where the noed contribute to sybill resistance and help the chain to reach concensus
