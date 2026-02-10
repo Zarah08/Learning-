@@ -205,6 +205,60 @@ Asset Management: Platforms like Yearn Finance act as "robo-advisors," automatic
 
 A token is just a digital representation of a value of some description or utility on the blockchain
 They are digital blockchain assets 
+Fungible tokens are divisible some of them are multipurpose 
+
+Non-Fungible Tokens (NFTs)
+In contrast to fungible tokens, Non-Fungible Tokens (NFTs) are unique digital assets that are not interchangeable. Each NFT has a distinct identity and set of properties, making it a one-of-a-kind token.
+
+Key Characteristics:
+Unique: Every NFT is verifiably different from another.
+Non-interchangeable: You cannot swap one NFT for another on a 1:1 basis, as they hold different values and attributes.
+Indivisible: NFTs cannot be split into smaller units.
+Metadata: Each NFT is linked to metadata—data that describes its properties, such as its name, description, and an associated image or file.
+Standard: The most common standard for NFTs on Ethereum is ERC721.
+
+Use Cases:
+Digital Art: Proving ownership of digital creations, such as pieces from the CryptoPunks or Bored Ape Yacht Club collections.
+ENS Domains: Serving as human-readable names for Ethereum wallet addresses (e.g., yourname.eth).
+In-Game Assets: Representing unique items, characters, or virtual land in blockchain-based games.
+
+Semi-Fungible Tokens
+Semi-fungible tokens represent a hybrid between fungible and non-fungible tokens. They are used for assets where multiple identical copies can exist, but each copy is still individually tracked and owned. While two tokens of the same class are interchangeable, they are distinct from tokens of another class.
+The most common technical standard for these tokens is ERC1155.
+Use Cases:
+Event Tickets: A single event might have 500 "General Admission" tickets. These tickets are fungible with each other but not with the 50 "VIP" tickets for the same event.
+In-Game Items: A game might have thousands of copies of a common item like a "Health Potion." Each potion is identical in function, but each is a unique token that can be owned and traded individually.
+Token Gating: Granting different tiers of access to content or services based on the class of token held.
+Certifications: Representing academic credentials or professional certifications that are issued to multiple individuals.
+Tokenization of Real-World Assets (RWAs)
+A rapidly growing area in web3 is the tokenization of Real-World Assets (RWAs). This process involves creating a digital token on the blockchain that represents ownership of a physical or traditional financial asset. Tokenization aims to bridge the gap between traditional finance (TradFi) and DeFi.
+Examples of Assets Being Tokenized:
+Real Estate
+US Treasury Bonds
+Gold
+Private Equity
+Benefits of Tokenizing RWAs:
+Increased Accessibility: Makes traditionally illiquid assets like real estate or fine art available to a broader range of investors through fractional ownership.
+Improved Tradability: Allows for 24/7 global trading of assets that are normally restricted by traditional market hours.
+Greater Efficiency: Reduces reliance on intermediaries and manual paperwork, making transactions faster, cheaper, and more transparent.
+
+
 
 Native tokens are not created by smartcontracts they are baked into the blockchain itself, Every blockchain has its own native currrency Ethereum has ETH, Bitcoin has BTC
 Native tokens are types of Fungible tokens 
+
+There are two types of exchanges: Centralized and Decentralized 
+A centralised exchange works like the traditional exvhange system you do not control your fund, the exchange controls it (eg binance, stablecoins)
+advantages are: They are fast, deep liquidity for major tokens, user experience, on+off ramps
+on ramps allow you to convert normal currency like us dollars into cryptocurrency while an off ramp is the reverse i.e converting crypto into traditional money 
+Uniswap is the largest DEX 
+
+What are Decentralized Exchanges (DEXs)?
+Decentralized exchanges are not operated by a single company. Instead, they are protocols built from smart contracts that run directly on the blockchain. They facilitate peer-to-peer trading without any intermediary.
+The user experience on a DEX is fundamentally different:
+No Account or KYC: You do not need to create an account or provide any personal information. Access is permissionless.
+Connect Your Wallet: You interact with a DEX by simply connecting your self-custody crypto wallet, such as MetaMask.
+Trade Directly: You execute trades directly from your wallet. Your assets never leave your control until the moment a trade is executed.
+This brings us to the core principle of a DEX: self-custody. You, and only you, hold the private keys to your wallet. Your tokens remain in your possession at all times, giving you full control over your assets.
+
+Most modern DEXs, like the popular Uniswap, do not use an order book. Instead, they use a model called an Automated Market Maker (AMM). This system relies on liquidity pools, which are smart contracts containing reserves of two or more tokens. Users known as Liquidity Providers (LPs) supply these pools by depositing an equal value of each token. When you make a trade, you are swapping your tokens directly with the pool, not with another person. The price is determined automatically by a mathematical formula based on the ratio of tokens in the pool. For instance, as more people buy ETH from an ETH/USDC pool, the supply of ETH in the pool decreases, making it more expensive relative to USDC.
