@@ -46,3 +46,22 @@ Core Layer- Network backbone, simplest yet most critical part, it consist of hig
 
 TWO TIER ARCHITECTURE
 More suitable for small to medium size campus networks, there is not much room for growth so the core layer and distribution layer are collapsed. A collapsed core is when the distribution layer and core layer functios are implemented by a single device thereby reducing network cost 
+
+WAN (Wide Area Network) -  A collection of LAN'S or other networks that communicate with one another
+LAN is typically owned by an organization, they connect devices within a single building or other small geographical area
+WAN is essentially a network of networks the internet is the worlds largest WAN, owned by a service provider, interconnects remote branch offices, transporting data, voice and video. Eg MPLS network, telephone network, cable company or satellite service. 
+
+WAN Topologies
+1- Point to Point
+2- Hub and Spoke Topology
+3- Full Mesh Topology
+4- Dual Homed Topology
+
+WAN Technologies 
+1- Circuit switched method od communication where there is a dedicated communication path
+No other device can use it during the session commonly used for Voice and Data. PSTN or ISDN
+2- Packet switched
+Data is broken down into smaller units called packets, each packets contains the source and destination address Eg MPLS, Metro Ethernet WAN, ATM 
+
+SOHO Small office Home office Architecture
+Mostly used in homes and/or small enterprises
