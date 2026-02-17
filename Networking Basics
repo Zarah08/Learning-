@@ -26,3 +26,17 @@ IBN (Internet based networking) is a form of network administration that incorpo
 
 7- Firewall and IPS - A network security device that monitors incoming traffic (public to private) or outgoing traffic (private to public) decide whether to block or accept traffic. It protects the network from attack. Firewalls are the first line of defense in any network
 IPS (Intrusion Prevention System) is a form of network security that works to detect and prevent identified threats. The IPS can Log, Discard, Redirect and periodically download and update signature database. 
+
+Network Topology Architectures
+1- Three Tier
+2- Two Tier
+3- Spine-Leaf 
+4- WAN
+5- SOHO
+6- On premises and Cloud 
+
+THREE TIER ARCHITECTURE
+Suitable for a large campus network, one of the oldest and classic networking models, can be used in large campus network. Enterprise hierarchical campus network design inlude 3 layers (Core layer, Distribution Layer and Access layer)
+
+Access Tier - First Tier, grants end devices access to the network, it is the closest to the end users, generally incorporates layer 2 switches and access points, it is the first layer of defense in the network security architecture. 
+
