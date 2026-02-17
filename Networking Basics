@@ -43,3 +43,6 @@ Access Layer - First Tier, grants end devices access to the network, it is the c
 Distribution Layer - Middle Layer, serves multiple purpose also called aggregation layer, it moves traffic from the access layer to the core layer and vice versea, it also performs quality of service and security work, multilayer switches
 
 Core Layer- Network backbone, simplest yet most critical part, it consist of high speed network devices, it also routes traffic as fast as possible, it aggregates the traffic from all the distribution layer devices and are designed to interconnect multiple campus components. It provides a very limited set of services designed to be always available 7x24x365 days of service
+
+TWO TIER ARCHITECTURE
+More suitable for small to medium size campus networks, there is not much room for growth so the core layer and distribution layer are collapsed. A collapsed core is when the distribution layer and core layer functios are implemented by a single device thereby reducing network cost 
