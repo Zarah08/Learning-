@@ -38,5 +38,8 @@ Network Topology Architectures
 THREE TIER ARCHITECTURE
 Suitable for a large campus network, one of the oldest and classic networking models, can be used in large campus network. Enterprise hierarchical campus network design inlude 3 layers (Core layer, Distribution Layer and Access layer)
 
-Access Tier - First Tier, grants end devices access to the network, it is the closest to the end users, generally incorporates layer 2 switches and access points, it is the first layer of defense in the network security architecture. 
+Access Layer - First Tier, grants end devices access to the network, it is the closest to the end users, generally incorporates layer 2 switches and access points, it is the first layer of defense in the network security architecture. 
 
+Distribution Layer - Middle Layer, serves multiple purpose also called aggregation layer, it moves traffic from the access layer to the core layer and vice versea, it also performs quality of service and security work, multilayer switches
+
+Core Layer- Network backbone, simplest yet most critical part, it consist of high speed network devices, it also routes traffic as fast as possible, it aggregates the traffic from all the distribution layer devices and are designed to interconnect multiple campus components. It provides a very limited set of services designed to be always available 7x24x365 days of service
