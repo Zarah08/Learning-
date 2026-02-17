@@ -16,7 +16,13 @@ Network Components
 
 3- Routers - At a basic level, a router connects two or more networks together it is a layer 3 device. It uses IP address and it is reponsible for path determination, They aso allow network devices to communicate
 
-4- Servers
-5- Access points
-6- Controllers 
-7- Firewall and IPS 
+4- Servers - A server is a software component or a dedicated hardware that can accept request from multiple clients providing suitable responses after processing these requests. The device that makes the request and recieves a response on the server is called the client. A server is not just a physical computer but a role that a computer takes. Types of server Application server, Database server, DNS server, File server, Mail server, Web server and DHCP server
+
+5- Access points- AP OR Wireless AP is a device that allows wireless devices such as laptops, tabs or mobile phones to connect to a wired network. Devices connected to the access point form a network known as a wireless LAN or WLAN. It is a key component of the WLAN architecture eg Hotspot 
+
+6- Controllers - WLC Wireless LAN Controller is a network device that manages wireless network access points.Switching seamlessly from one access point to another is called roaming. It takes care of authentication, roaming and creating new WLAN's. Main function is to centralize the control of the access points. 
+CISCO DNA Controller(Cisco Digital Network Architecture) it is a powerful network controller, management dashboard, centralized internet based network.
+IBN (Internet based networking) is a form of network administration that incorporates artificial intelligence (AI), network orchestration and Machine Learning ML to automate administrative tasks across a network. 
+
+7- Firewall and IPS - A network security device that monitors incoming traffic (public to private) or outgoing traffic (private to public) decide whether to block or accept traffic. It protects the network from attack. Firewalls are the first line of defense in any network
+IPS (Intrusion Prevention System) is a form of network security that works to detect and prevent identified threats. The IPS can Log, Discard, Redirect and periodically download and update signature database. 
