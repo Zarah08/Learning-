@@ -10,3 +10,13 @@ A well known example of a network is the internet
 An internet is a global network of millions of computers and other network devices 
 
 Network Components
+1- Endpoints - Internet capable computer hardware device it can be any device laptops, desktops, workstation, iot devices and virtual environment. 
+
+2- Switches- Key building blocks of any network, it physically connects two or more devices that belong to thesame network, It has multiple ports and can connect multiple devices. They enable devices to share information. There are two types of switches L2 Switch and L3 switch. L2 switch works with MAC address only, L3 switch work with MAC address and IP address. 
+
+3- Routers - At a basic level, a router connects two or more networks together it is a layer 3 device. It uses IP address and it is reponsible for path determination, They aso allow network devices to communicate
+
+4- Servers
+5- Access points
+6- Controllers 
+7- Firewall and IPS 
