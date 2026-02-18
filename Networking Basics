@@ -85,3 +85,32 @@ Many ISPs also offer additional services to their contract subscribers, as shown
 ISPs are critical to communications across the global internet. Each ISP connects to other ISPs to form a network of links that interconnect users all over the world. ISPs are connected in a hierarchical manner that ensures that internet traffic generally takes the shortest path from the source to the destination.
 
 The interconnection of ISPs that forms the backbone of the internet is a complex web of fiber-optic cables with expensive networking switches and routers that direct the flow of information between source and destination hosts. Average home users are not aware of the infrastructure outside of their network. For a home user, connecting to the ISP is a fairly uncomplicated process.
+
+ISP CONNECTION
+Most homes connect to the internet using Cable or DSL, not fiber.
+These are the two most common internet connection types.
+Service provider sends signal through coaxial cable
+
+Cable modem separates internet signal
+Then connects to: Computer OR Router OR LAN
+Cable Internet
+This uses the same cable that brings cable TV to your house.
+
+2️⃣ DSL Internet (Digital Subscriber Line)
+This uses your telephone line ☎️
+But it splits the line into 3 channels
+
+The 3 channels:
+1. Voice channel
+Used for phone calls
+👉 You can talk on phone AND use internet at same time
+
+2. Download channel
+Used to receive data
+Example:
+Watching YouTube
+Opening websites
+This is faster
+3. Upload channel
+Used to send data
+Example: Sending email, Uploading files, This is slower
