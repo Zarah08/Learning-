@@ -75,3 +75,5 @@ Some examples of end devices are as follows:
 4- Security cameras
 5- Mobile devices (such as smart phones, tablets, PDAs, and wireless debit/credit card readers and barcode scanners)
 6- An end device (or host) is either the source or destination of a message transmitted over the network, as shown in the animation. In order to uniquely identify hosts, addresses are used. When a host initiates communication, it uses the address of the destination host to specify where the message should be sent.
+
+An Internet Service Provider (ISP) provides the link between the home network and the internet. An ISP can be the local cable provider, a landline telephone service provider, the cellular network that provides your smartphone service, or an independent provider who leases bandwidth on the physical network infrastructure of another company.
