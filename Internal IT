@@ -1,5 +1,5 @@
 Incident vs Request are common terms in IT support and networking (especially in frameworks like ITIL). Here’s the simple difference:
-🔴 Inciden
+🔴 Incident
 An incident is when something is broken or not working as it should.
 Goal: Fix it and restore normal service quickly.
 Examples:
@@ -19,3 +19,18 @@ Broken	Asking
 Problem	Service
 Fix it	Provide it
 Example: Network down	Example: Need new account
+
+Granted Door Access to all Staffs and Interns
+-Login as admin
+-select staff 
+-edit
+-access control
+-click on the door
+-use the > button
+-save and upload
+-exit
+-add
+-exit 
+Repeatedly for all users 
+
+Created 4 Tickets (DUO/VPN, Printer/Scanner trouble (HP Scan downloaded), Door grants, Signature)
