@@ -8,3 +8,12 @@ After analyzing the data, the technician will either:
 
 Solve the problem: Once resolved, the technician updates and closes the trouble ticket, enriching the ticketing system database. This helps in quickly resolving similar future issues and allows administrators to identify and address common problems.
 Escalate the ticket: If the problem is complex or outside the technician's scope, the ticket is escalated to a more experienced technician. Clear, concise, and accurate documentation is crucial during this process.
+
+The flowchart begins when a user initiates a support request through an online reporting application, live chat, email, or telephone. The help desk technician first captures the details of the request and validates the problem or support request. If the request is deemed invalid, the technician informs the user and removes the request from the system. If the request is valid, the technician creates a trouble ticket to document the issue.
+
+Once the ticket is created, the technician gathers more detailed information about the problem and analyzes the data to identify potential solutions. At this point, a decision is made on whether the technician can resolve the issue. If the problem can be solved, the technician addresses it, updates the trouble ticket with the resolution details, and then closes the ticket. If the technician is unable to resolve the issue, the ticket is escalated to a more experienced technician for further investigation and resolution. This structured approach ensures that all support requests are handled systematically, either being resolved or escalated appropriately.
+
+Queue Management
+Managing a constant flow of incoming support tickets is crucial for keeping customer satisfaction high and operations running smoothly. Queue management is the backbone of this process, ensuring that tickets are handled efficiently and in the right order.
+
+Service Level Agreements (SLAs) are formal agreements that outline how quickly a support team must respond to or resolve different types of issues. Each ticket needs to be assigned a priority level that reflects how quickly it needs to be addressed according to the SLA. Knowing the SLAs and priorities helps technicians determine which ticket to tackle first and ensures that high-priority issues are handled quickly and efficiently.
