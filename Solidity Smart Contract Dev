@@ -2,3 +2,10 @@ Warnings wont prevent compilation but an error prevents compilation
 
 Remix IDE
 This is an IDE (Integrated Development Environment), a powerful tool used to build and develop smart contracts in Solidity. It helps to easily visualize and interact with our smart contracts. It contains a file explorer that hosts all the files, a Solidity compiler and a tab where you can deploy your contracts.
+
+Compiler directive
+The pragma directive specifies the version of the Solidity compiler that you want to use to build your source file. When the compiler encounters this line, it will check its version against the one you specified here. If the compiler version is different, Remix will automatically adjust accordingly to your specifications.
+pragma solidity 0.8.19; // use only version 0.8.19
+// use versions between 0.8.19 and 0.9.0 (excluded)
+pragma solidity ^0.8.19;
+pragma solidity >=0.8.19 <0.9.0;
