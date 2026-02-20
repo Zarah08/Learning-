@@ -23,3 +23,6 @@ Unsigned Integer (uint): unsigned whole number (positive)
 Integer (int): signed whole number (positive and negative)
 Address (address): 20 bytes value. An example of an address can be found within your MetaMask account. Eg wallet address 
 Bytes (bytes): low-level raw byte data
+
+Very important to note that 👀❗IMPORTANT:br
+Every variable in Solidity comes with a default value. Uninitialized uint256 for example, defaults to 0 (zero) and an uninitialized boolean defaults to false.
