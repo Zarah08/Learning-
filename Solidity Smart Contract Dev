@@ -36,3 +36,12 @@ The process of sending a transaction is the same for deploying a contract and fo
 
 🗒️ NOTE:br
 Appending the public keyword next to a variable will automatically change its visibility and it will generate a getter function (a function that gets the variable's value when called).
+
+Visibility
+In Solidity, functions and variables can have one of these four visibility specifiers:
+🌎 public: accessible from both inside the contract and from external contracts
+🏠 private: accessible only within the current contract. It does not hide a value but only restricts its access.
+🌲 external: used only for functions. Visible only from outside the contract.
+🏠🏠 internal: accessible by the current contract and any contracts derived from it.
+
+
