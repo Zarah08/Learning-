@@ -9,3 +9,9 @@ pragma solidity 0.8.19; // use only version 0.8.19
 // use versions between 0.8.19 and 0.9.0 (excluded)
 pragma solidity ^0.8.19;
 pragma solidity >=0.8.19 <0.9.0;
+
+Writing the Smart Contract
+You can start writing your contract using the keyword contract followed by a name, e.g., SimpleStorage. All the code inside the curly brackets will be considered part of this contract.
+contract SimpleStorage {
+    //this is where we'll place the content of the contract
+}
