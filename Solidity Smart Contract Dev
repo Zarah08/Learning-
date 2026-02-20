@@ -15,3 +15,11 @@ You can start writing your contract using the keyword contract followed by a nam
 contract SimpleStorage {
     //this is where we'll place the content of the contract
 }
+
+Solidity Types
+Solidity supports various elementary types that can be combined to create more complex ones.
+Boolean (bool): true or false
+Unsigned Integer (uint): unsigned whole number (positive)
+Integer (int): signed whole number (positive and negative)
+Address (address): 20 bytes value. An example of an address can be found within your MetaMask account. Eg wallet address 
+Bytes (bytes): low-level raw byte data
