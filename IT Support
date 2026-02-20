@@ -3,3 +3,8 @@ A help desk is a specialized IT team that serves as the central point of contact
 Help desk technicians often resolve issues quickly. For example, if there's a network outage, users may contact the help desk to ask why they can't access external sites. The technician can inform them of the outage and provide an expected resolution time.
 
 When a support request requires further action, the technician creates a "trouble ticket" using ticketing system software to manage and track the issue. Tickets can be initiated by users via a dashboard or by technicians, with the technician validating and managing the ticket.
+
+After analyzing the data, the technician will either:
+
+Solve the problem: Once resolved, the technician updates and closes the trouble ticket, enriching the ticketing system database. This helps in quickly resolving similar future issues and allows administrators to identify and address common problems.
+Escalate the ticket: If the problem is complex or outside the technician's scope, the ticket is escalated to a more experienced technician. Clear, concise, and accurate documentation is crucial during this process.
