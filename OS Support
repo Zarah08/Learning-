@@ -67,3 +67,15 @@ Microsoft Account: If you're using a Microsoft account with your Windows device,
 Azure AD/Microsoft 365: In organizational settings, IT administrators may store BitLocker keys in Azure AD. Users might need to contact IT support.
 Local storage: If saved locally, check for a text file containing the recovery key, often on an external USB drive or printed document created during BitLocker setup.
 Group Policy: In business environments, recovery information might be stored according to organizational policy.
+
+Windows Update is built into Windows and managed through the Settings app. It provides maintenance updates, critical updates, security patches, and optional driver or firmware updates. Microsoft releases security and reliability updates every second Tuesday of the month, a schedule known as Patch Tuesday.
+
+There are several types of Windows updates
+
+Quality Updates (Patch Tuesday Updates) – Released monthly with security and reliability fixes.
+Feature Updates – Major updates introducing new functionality (e.g., Windows 10 to Windows 11 upgrades).
+Driver and Firmware Updates – Updates for hardware components, sometimes included in Windows Update.
+Optional Updates – Feature enhancements and non-security updates that require manual installation.
+Windows automatically downloads and installs updates to make sure your device is secure and up to date. This means you receive the latest fixes and security updates, helping your device run efficiently and securely. In most cases, the only user interaction required is the restarting of your device to complete the update.
+
+Manufacturers occasionally release new drivers to address issues with the current drivers. Check for updated drivers when your hardware does not work properly or to prevent future problems. It is also important to update drivers that patch or correct security problems. If a driver update does not work properly, use the Roll Back Driver feature in Device Manager to revert back to the previously installed driver. If it is not possible to roll back the drive, the button will be grayed out, as shown in the figure.
