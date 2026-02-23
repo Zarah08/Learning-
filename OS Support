@@ -23,3 +23,11 @@ A customer reports their new 144Hz gaming monitor feels laggy and no smoother th
 Refresh rate is expressed in Hertz (Hz) and refers to how often per second your monitor can redraw the screen. You explain to the customer that the issue is probably due to a low refresh rate. Higher refresh rates (120Hz,144Hz, 240Hz) provide smoother motion in games, while the default 60Hz can cause stuttering.
 Search for "refresh rate" and then select View advance display info. If the monitor supports different refresh rates, select the drop down menu under Refresh Rate to see if the monitor supports different refresh rates. In the Figure, the Dell monitor only supports two refresh rates: 29.981 Hz and 59.997 Hz. Monitors meant for gaming will support higher refresh rates.
 
+RESPONSE TIME
+A customer reports that their gaming monitor is leaving ghost trails behind moving objects and that fast-moving characters appear blurry. This is probably due to an incorrect response time setting for the monitor. Adjusting this requires accessing the monitor's On-Screen Display (OSD) menu. This is the menu interface built into the monitor that you access using the physical buttons on the monitor itself.
+At this point in the call, you will want to ask the customer for their monitor brand and model. Then you can do a quick search to find out how to change the response time for that particular monitor. In the context of fixing ghosting issues, you would use the OSD to find and adjust the "Response Time," "Overdrive," or similar setting, typically located in a gaming or performance section of the menu.
+
+FRAMES PER SECOND FPS
+A customer complains of screen tearing in video games where half of the image looks misaligned, especially, during fast movement.
+You let the customer know that this could indicate the FPS need to be adjusted. If FPS is higher than the monitor's refresh rate, screen tearing (split images) can occur. If FPS is too low, motion may appear stuttered. Adaptive sync technologies (V-Sync, Free Sync, G-Sync) help to match FPS with refresh rate.
+FPS adjustments are made in the settings of the installed graphics card. For NVIDIA cards, enable G-Syn in the NVIDA Control Panel. For AMD cards enable, Free Sync in the AMD Radeon Settings.
