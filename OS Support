@@ -1,4 +1,10 @@
 Troubleshooting Display and Power Issues 
+PIXELS 
 A customer is frustrated with their blurry new 4K monitor. You explain that pixels, tiny red, green, and blue (RGB) dots that make up their display, determine image quality, with more pixels providing better detail.
-
 Their blurriness likely stems from low resolution setting snot utilizing all available pixels. To fix this, search for "display resolution" and select Change the resolution of the display. Under Display resolution, select the Recommended level. This will ensure your laptop outputs the full 4K resolution your monitor supports. The figure shows this in Windows 10.
+
+DOT PITCH
+A customer reports grainy text on their new 27-inch monitor. You explain that dot pitch (distance between pixels) is likely the cause. Their monitor probably has a high dot pitch, spacing pixels farther apart and creating blurry images.
+For a quick fix, search for "clear type", select Adjust ClearType text, and enable it. This optimizes text rendering for clearer reading."
+For future purchases, recommend the customer consider monitors with both high resolution and low dot pitch for sharper images
+
