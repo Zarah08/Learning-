@@ -50,3 +50,20 @@ Lid, power & sleep button controls, allow you to configures how a computer acts 
 -Hibernate - Documents, applications, and the state of the operating system are saved to a temporary file on the hard drive. With this option, the computer takes a little longer to power on than the Sleep state, but does not use any power to retain the information on the hard drive.
 -Shut down - Shuts down the computer.
 -Turn off the display - Computer runs at full power, but the display is turned off. This option is not shown in the figure because it is not available on laptops.
+
+Energy Recommendations
+Windows 11 offers enhanced power management that makes devices more energy-efficient and responsive. Select Energy recommendations in the Power & Battery screen to view all the recommendations, as shown in the figure.
+
+Key Benefits:
+Instant Wake: Modern Standby enables devices to wake almost immediately from sleep, eliminating traditional boot delays.
+Background Processing During Sleep: Essential tasks like email syncing and security scans can run during sleep mode using waitable timers.
+Component-Level Power Control: Unused hardware components power down individually while active ones continue functioning.
+Extended Battery Life: Dynamic adjustments to CPU, screen brightness, and background processes conserve energy without compromising performance, reducing costs and extending hardware lifespan.
+
+BitLocker is Microsoft's full disk encryption feature built into Windows operating systems that provides robust data protection for your computer. First introduced with Windows Vista, this security tool encrypts entire drives using advanced encryption standards, preventing unauthorized access to your data in case your device is lost, stolen, or compromised. By requiring authentication before decrypting the drive through a password, PIN, USB key, or TPM (Trusted Platform Module) chip, BitLocker creates a powerful barrier against data theft, giving users peace of mind that their sensitive information remains secure even if physical access to their device is obtained by malicious actors.
+BitLocker recovery keys can be found in several places, depending on how your Windows system is set up:
+
+Microsoft Account: If you're using a Microsoft account with your Windows device, recovery keys are typically saved there automatically. Check at account.microsoft.com/devices/recoverykey
+Azure AD/Microsoft 365: In organizational settings, IT administrators may store BitLocker keys in Azure AD. Users might need to contact IT support.
+Local storage: If saved locally, check for a text file containing the recovery key, often on an external USB drive or printed document created during BitLocker setup.
+Group Policy: In business environments, recovery information might be stored according to organizational policy.
