@@ -115,3 +115,60 @@ Ensure the remote access software you are using works with both your device and 
  Introduction to Researching Issues
 IT professionals rely on a combination of modern artificial intelligence (AI) tools and traditional troubleshooting methods to diagnose and address issues effectively. They then update internal documentation with findings to ensure the team benefits from the knowledge gained.
 Documenting your research is important for several reasons. It saves time by leveraging existing solutions, ensures that findings are shared with the team for future reference, and improves problem-solving efficiency by combining multiple resources. In this topic, you will explore how to use AI tools to query and analyze data, research effectively with search engines, technical forums, and knowledge bases, and consider the ethical and privacy implications of using AI tools.
+
+Predictive AI tools analyze performance data to detect patterns that could indicate potential issues, enabling IT teams to intervene proactively. This approach helps prevent downtime and enhances the reliability of IT systems.
+Crafting specific queries, such as including error codes or detailed descriptions, helps narrow down search results and find relevant solutions more quickly. This approach reduces time spent sifting through irrelevant or outdated information.
+
+Application installation is one of the most common sources of user frustration. Applications are typically downloaded from two main types of sources: official marketplaces and untrusted or unknown sources.
+
+Marketplace or Approved Applications
+These are applications obtained from official app marketplaces, such as the Google Play Store, Apple App Store, or Microsoft Store. While these sources are reliable, common issues may arise, including:
+Permissions being denied, which can prevent installation;
+Compatibility problems, where the application does not support the user’s device or operating system; or
+Interrupted downloads caused by network instability, leading to corrupted installation files.
+To address these issues, users should check and enable the necessary permissions, verify that their device meets the app's requirements, and restart the download if the file appears corrupt.
+
+Untrusted or Unknown Sources
+These are applications downloaded from third-party websites or stores instead of official marketplaces. These sources pose significant risks, including security vulnerabilities from malware-infected 
+and unsupported apps that may lack updates or performance fixes. To mitigate these risks, users should be educated about the dangers of untrusted sources and guided to use official or approved alternatives. If downloading from an untrusted source is unavoidable, it is crucial to proceed cautiously, assist users in manually enabling trusted app installation only with their explicit consent, and emphasize the associated risks.
+
+Email and collaboration tools are essential for most users but can often encounter issues like configuration errors, connectivity problems, and account synchronization failures.
+
+Knowledge bases provide structured repositories of information. Industry-specific knowledge bases, such as those from Microsoft or Cisco, offer official solutions and best practices. General resources like ITIL (Information Technology Infrastructure Library) or ITSM (Information Technology Service Management) frameworks also provide troubleshooting guidance.
+
+Internal knowledge bases are equally important. Documenting findings ensures that solutions are available for recurring issues. For instance, after resolving an issue, you might update the internal database with detailed steps, solutions, and any additional notes. This practice saves time and helps standardize responses across the team.
+
+Remote Access Tool Comparison 
+Microsoft Remote Desktop, shown in the figure, is a widely-used tool for connecting to and controlling Windows PCs from another device.
+Benefits:
+Connects to Windows PCs remotely, providing access to files, applications, and network resources.
+Ideal for professional environments where Windows devices are predominant.
+Free and integrated with Windows Pro and Enterprise editions.
+
+Windows Remote Assistance, shown in the figure, lets someone you trust take over your PC and fix a problem from wherever they are.
+Benefits:
+Simple and secure, with built-in functionality in Windows.
+Best suited for quick, one-time support sessions.
+
+Cisco WebEx is a video conferencing and screen sharing application. When you're sharing your screen, you can give someone else mouse and keyboard access to your screen, as shown in the figure. You can also request access to someone else's screen when they're sharing.
+Benefits:
+Offers video conferencing, screen sharing, and remote desktop control.
+Useful for collaborative support and training sessions.
+Provides a secure environment for sharing sensitive information.
+
+Remote Desktop is designed for managing multiple Mac computers efficiently within a networked environment, as shown in the figure.
+Benefits:
+Features include screen sharing, file transfer, and command execution.
+Ideal for organizations that primarily use Apple devices.
+
+TeamViewer is a versatile tool offering cross-platform remote access and robust collaboration features. The figure shows the free license home dashboard for TeamViewer.
+Benefits:
+Cross-platform support for Windows, macOS, and mobile devices.
+Features include file transfer, chat, and session recording.
+Free for personal use; widely used in professional environments.
+
+Although VNC was previously an open-source solution for remote desktop sharing and control, the original developers formed RealVNC and laid claim to the VNC name and its protocol, Remote Frame Buffer protocol (RFB), that is used to for remote control. The figure shows the RealVNC Viewer start screen, which you can use to access 3 computers during the 14-day trial.
+Benefits:
+Desktop sharing tool that allows remote control of another computer’s screen.
+Compatible with various platforms and versions available for free.
+Useful for tech-savvy users familiar with network configurations.
