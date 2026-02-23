@@ -68,3 +68,32 @@ Problem solving process
 Remote access software allows IT support professionals to connect to an end user’s device over the internet, troubleshoot problems, and perform tasks as if they were physically present.
 What is remote access? It’s the ability to control a device, like a computer or tablet, from a different location.
 Why is it important? Imagine you’re helping someone hundreds of miles away who can’t open a critical file. Remote access makes it possible to resolve their issue quickly without traveling.
+
+Important Features of Remote Access Software
+Screen Sharing: Lets you view the user’s screen in real time.
+File Transfer: Enables moving files between devices.
+Chat Functionality: Provides a way to communicate with the user while troubleshooting.
+Security Measures: Includes encryption and user permissions to ensure safe connections.
+
+How Remote Access works?
+Step 1: Installation and Setup
+Tools like:
+-Microsoft (Windows Remote Desktop)
+-Cisco (WebEx)
+-TeamViewer (TeamViewer)
+-RealVNC (VNC)
+They allow IT support to: See your screen, Control your mouse, Control your keyboard, Open files, Fix problems directly
+👉 It’s like they are sitting in front of your computer, even if they are far away.
+
+Step 2: Establish a Connection
+The software uses the internet to create a secure link between devices.
+The user may need to confirm or grant permission for the connection.
+
+Step 3: Perform the Task
+Once connected, you can control the mouse, keyboard, and other inputs.
+You can now troubleshoot issues, install updates, or demonstrate steps the user can follow.
+Narrate your steps to the user as you troubleshoot or perform tasks. This helps the user learn from the process and ensures transparency during the session.
+
+Step 4: Close the Session
+End the connection after the problem is resolved or you have made a decision to escalate the issue to another technician.
+Log out or end the connection completely to ensure no lingering remote access permissions remain active.
