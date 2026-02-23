@@ -8,3 +8,18 @@ A customer reports grainy text on their new 27-inch monitor. You explain that do
 For a quick fix, search for "clear type", select Adjust ClearType text, and enable it. This optimizes text rendering for clearer reading."
 For future purchases, recommend the customer consider monitors with both high resolution and low dot pitch for sharper images
 
+CONTRAST RATIO
+A customer with visual impairments asks how to adjust contrast settings on their new Windows laptop. You explain that for accessibility purposes, Windows 11 offers built-in contrast adjustment options.
+This is a measurement of how white and how black a monitor can get. A contrast ratio of 1,000:1 displays dimmer whites and more pale blacks than 4,500:1. To help the customer adjust the contrast, search for "contrast", select Contrast themes, and have them turn on a contrast theme by selecting one from the dropdown menu. Options include Aquatic, Desert, Dusk, and Night sky. These themes create high-contrast displays that can make text and interface elements more visible for certain users.
+If the customer needs further adjustment, they can customize these themes by clicking Edit next to your selected contrast theme. In the figure, the user is editing the Desert theme. Alternatively, you can adjust contrast directly through your monitor's On-Screen Display (OSD) menu using the physical buttons on your monitor."
+
+ASPECT RATIO
+A customer explains that when watching videos, there are black bars on the sides of the screen. They are frustrated because the video looks smaller than expected.
+You explain to the customer that an incorrect aspect ratio can cause images to appear stretched or to have black bars on the sides. Using an unsupported aspect ratio can cause display distortion. This can also be an issue when an application does not automatically adjust to widescreen formats.
+To adjust this, search for "display resolution" and select Change the resolution of the display. Under Display resolution, select the Recommended level. This will ensure your laptop outputs the full 4K resolution your monitor supports. The figure shows this in Windows 10.
+
+REFRESH RATE
+A customer reports their new 144Hz gaming monitor feels laggy and no smoother than their old one.
+Refresh rate is expressed in Hertz (Hz) and refers to how often per second your monitor can redraw the screen. You explain to the customer that the issue is probably due to a low refresh rate. Higher refresh rates (120Hz,144Hz, 240Hz) provide smoother motion in games, while the default 60Hz can cause stuttering.
+Search for "refresh rate" and then select View advance display info. If the monitor supports different refresh rates, select the drop down menu under Refresh Rate to see if the monitor supports different refresh rates. In the Figure, the Dell monitor only supports two refresh rates: 29.981 Hz and 59.997 Hz. Monitors meant for gaming will support higher refresh rates.
+
