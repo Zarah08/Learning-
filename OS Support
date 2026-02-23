@@ -43,3 +43,10 @@ Drivers: Check Device Manager for display adapter driver updates or reinstall th
 
 IT support technicians should understand power management capabilities in Windows so that they can help customers optimize their devices. These features improve response times, reduce energy usage, and extend device lifespans. Knowing how to configure and troubleshoot these settings will help you resolve performance issues, maximize battery life, and implement energy-saving policies across your organization.
 
+Power Options
+Lid, power & sleep button controls, allow you to configures how a computer acts when power or sleep buttons are pressed, or the lid is closed. If users do not want to completely shut down a computer, the following options may be available:
+-Do nothing - The computer continues to run at full power.
+-Sleep - Documents, applications, and the state of the operating system are saved in RAM. This allows the computer to power on quickly, but uses power to retain the information in RAM.
+-Hibernate - Documents, applications, and the state of the operating system are saved to a temporary file on the hard drive. With this option, the computer takes a little longer to power on than the Sleep state, but does not use any power to retain the information on the hard drive.
+-Shut down - Shuts down the computer.
+-Turn off the display - Computer runs at full power, but the display is turned off. This option is not shown in the figure because it is not available on laptops.
