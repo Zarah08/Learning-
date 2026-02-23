@@ -31,3 +31,12 @@ FRAMES PER SECOND FPS
 A customer complains of screen tearing in video games where half of the image looks misaligned, especially, during fast movement.
 You let the customer know that this could indicate the FPS need to be adjusted. If FPS is higher than the monitor's refresh rate, screen tearing (split images) can occur. If FPS is too low, motion may appear stuttered. Adaptive sync technologies (V-Sync, Free Sync, G-Sync) help to match FPS with refresh rate.
 FPS adjustments are made in the settings of the installed graphics card. For NVIDIA cards, enable G-Syn in the NVIDA Control Panel. For AMD cards enable, Free Sync in the AMD Radeon Settings.
+
+When an external monitor fails to display, check these potential causes:
+-Power: Verify the monitor has power (check indicator lights). Try reseating or replacing the power cable if needed.
+-Connections: Ensure display cables (HDMI, DisplayPort, USB-C) are securely connected at both ends. If using a docking station, verify it's powered and properly connected. Try a different cable to rule out cable issues.
+-Windows Settings: To detect monitors, go to Settings > System > Display > Multiple Displays and click Detect. Alternatively, press Win+P and select Extend or Duplicate.
+-Display Configuration: If monitors are detected but displaying improperly, adjust resolution in Settings > System > Display > Advanced display settings. Set the refresh rate to the highest supported value if experiencing flickering.
+-System Reset: Restart your computer to reinitialize peripherals.
+Drivers: Check Device Manager for display adapter driver updates or reinstall them if necessary.
+-Hardware Testing: If the problems persist, test with a different monitor using the same connections to determine if the original monitor is faulty. Multiple failures may indicate issues with your computer's display output.
