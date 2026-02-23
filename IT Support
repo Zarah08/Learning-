@@ -97,3 +97,21 @@ Narrate your steps to the user as you troubleshoot or perform tasks. This helps 
 Step 4: Close the Session
 End the connection after the problem is resolved or you have made a decision to escalate the issue to another technician.
 Log out or end the connection completely to ensure no lingering remote access permissions remain active.
+
+Preparing for Remote Access Sessions
+Before initiating a remote support session, it is important to get a clear understanding of the situation. Every technical issue starts with defining the problem and gathering details, so you can approach the problem with context and precision. Think of this as building a roadmap. Without knowing the destination, you might waste time exploring the wrong routes. Before connecting, ask clear, specific questions. For example:
+
+"What issue are you experiencing?"
+"When did it start?"
+"Have you installed any hardware or software recently?"
+"What steps have you already tried?"
+Ensure the remote access software you are using works with both your device and the user’s device. Then, start by communicating clear expectations to the user about what will happen during the session. For example:
+
+"You’ll see me moving the mouse and typing."
+"I might need to restart your computer, but I’ll let you know before doing so."
+"I will narrate the steps I take as I go."
+"At any time, feel free to ask me questions."
+
+ Introduction to Researching Issues
+IT professionals rely on a combination of modern artificial intelligence (AI) tools and traditional troubleshooting methods to diagnose and address issues effectively. They then update internal documentation with findings to ensure the team benefits from the knowledge gained.
+Documenting your research is important for several reasons. It saves time by leveraging existing solutions, ensures that findings are shared with the team for future reference, and improves problem-solving efficiency by combining multiple resources. In this topic, you will explore how to use AI tools to query and analyze data, research effectively with search engines, technical forums, and knowledge bases, and consider the ethical and privacy implications of using AI tools.
