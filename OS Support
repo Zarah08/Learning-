@@ -108,3 +108,12 @@ To change the boot order on your system, you will need to access Unified Extensi
 UEFI is the software that is designed to replace the legacy Basic Input Output System (BIOS). The UEFI comes with additional benefits, such as improved security, faster boot times, and large capacity hard drive support.
 
 The Basic Input Output System (BIOS) is the low-level software that is located on one of the chips of the motherboard. The BIOS is responsible for essential functions, such as booting and keyboard control. The BIOS also configures the hard drive, CPU and memory and other related equipment.
+
+OS COMPARISON 
+Linux differs from Windows and macOS in key aspects such as architecture, licensing, customization, security, and use cases. Unlike proprietary Windows and macOS, Linux is open-source, allowing users to modify and distribute its code freely. It is generally free, whereas Windows requires a purchased license, and macOS is tied to Apple hardware.
+Linux offers extensive customization, including modifications to the kernel and interface, whereas Windows and macOS provide limited flexibility.
+Linux follows a hierarchical file system, unlike Windows’ drive-letter system, and has strong security due to strict user permissions.
+While Linux relies on package managers for software installation, it lacks native support for major commercial applications like MS Office.
+The command line is central to Linux, whereas Windows and macOS emphasize graphical interfaces with command line options available.
+Linux is efficient on a wide range of hardware, making it ideal for servers, security applications, and developers, while Windows dominates general consumer and gaming markets, and macOS is favored by creative professionals.
+Windows is the most common in offices and enterprises, macOS is popular among creative professionals and Apple users, and Linux powers servers, cybersecurity tools, and development environments. Understanding all three ensures you can provide effective support, resolve compatibility issues, and assist users across various platforms.
