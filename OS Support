@@ -130,3 +130,6 @@ Also known as patches, OS updates are released periodically by OS companies to a
 
 Firmware Updates
 Usually held in non-volatile memory, such as ROM or Flash, firmware is a type of software designed to provide low-level functionality for a device. Check for firmware updates with the manufacturer and update the system if new versions are available.
+
+Antivirus and Antimalware
+In general, antivirus and antimalware rely on code signatures to operate. Signatures or signature files are files containing a sample of the code used by viruses and malware. Based on these signature files, antivirus and antimalware scan the contents of a computer disk comparing the contents of the files stored on the disk with the samples stored in the signature file. If a match is found, the antivirus or antimalware alerts the user of the possible presence of malware. New malware is created and released every day; therefore, the signature files of antivirus and antimalware programs must be updated just as frequently.
