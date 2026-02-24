@@ -119,3 +119,7 @@ Linux is efficient on a wide range of hardware, making it ideal for servers, sec
 Windows is the most common in offices and enterprises, macOS is popular among creative professionals and Apple users, and Linux powers servers, cybersecurity tools, and development environments. Understanding all three ensures you can provide effective support, resolve compatibility issues, and assist users across various platforms.
 
 Computer systems need periodic preventive maintenance to ensure best performance. Maintenance tasks should be scheduled and performed frequently to prevent or detect problems early. To avoid missing maintenance tasks due to human error, computer systems can be programmed to perform tasks automatically. Two tasks that should be scheduled and performed automatically are backups and disk checks.
+
+Backups and disk checks are usually time-consuming tasks. An additional benefit of scheduled maintenance tasks is that it allows the computer to perform these tasks when no one is using the system. The CLI utility known as cron, can schedule these tasks during off-peak hours.
+
+In Linux and macOS, the cron service is responsible for scheduled tasks. As a service, cron runs in the background and executes tasks at specific dates and times. cron uses a schedule table called a cron table that can be edited with the crontab command.
