@@ -102,3 +102,9 @@ Hard drives, network drives, USB drives, and even removable media can be used to
 Safe Mode is essential for diagnosing Windows problems like crashes or restarts. It runs only critical system components while disabling third-party drivers and non-essential services, creating a stable environment for troubleshooting.
 
 If issues disappear in Safe Mode, third-party software is likely the culprit. If problems persist, the core Windows system may be affected.
+To change the boot order on your system, you will need to access Unified Extensible Firmware Interface (UEFI) or the legacy Basic Input Output System (BIOS).
+
+
+UEFI is the software that is designed to replace the legacy Basic Input Output System (BIOS). The UEFI comes with additional benefits, such as improved security, faster boot times, and large capacity hard drive support.
+
+The Basic Input Output System (BIOS) is the low-level software that is located on one of the chips of the motherboard. The BIOS is responsible for essential functions, such as booting and keyboard control. The BIOS also configures the hard drive, CPU and memory and other related equipment.
