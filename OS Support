@@ -117,3 +117,5 @@ While Linux relies on package managers for software installation, it lacks nativ
 The command line is central to Linux, whereas Windows and macOS emphasize graphical interfaces with command line options available.
 Linux is efficient on a wide range of hardware, making it ideal for servers, security applications, and developers, while Windows dominates general consumer and gaming markets, and macOS is favored by creative professionals.
 Windows is the most common in offices and enterprises, macOS is popular among creative professionals and Apple users, and Linux powers servers, cybersecurity tools, and development environments. Understanding all three ensures you can provide effective support, resolve compatibility issues, and assist users across various platforms.
+
+Computer systems need periodic preventive maintenance to ensure best performance. Maintenance tasks should be scheduled and performed frequently to prevent or detect problems early. To avoid missing maintenance tasks due to human error, computer systems can be programmed to perform tasks automatically. Two tasks that should be scheduled and performed automatically are backups and disk checks.
