@@ -98,3 +98,7 @@ Windows PCs typically have one of two different firmware that govern the boot se
 When a Windows PC starts up, it follows the boot sequence configured in the BIOS/UEFI settings. This sequence determines the order in which the system checks connected devices for bootable operating systems.
 Typically, the primary hard drive is set as the default boot device, allowing the system to load Windows normally. However, there are situations where it becomes necessary to boot from an alternative device, such as a USB drive, external hard disk, or network source. This can be crucial for installing new software, running diagnostic tools, or performing system recovery.
 Hard drives, network drives, USB drives, and even removable media can be used to boot the computer, depending on the capabilities of the motherboard. Some BIOS also have a boot device priority menu that is accessed with a special key during computer startup. 
+
+Safe Mode is essential for diagnosing Windows problems like crashes or restarts. It runs only critical system components while disabling third-party drivers and non-essential services, creating a stable environment for troubleshooting.
+
+If issues disappear in Safe Mode, third-party software is likely the culprit. If problems persist, the core Windows system may be affected.
