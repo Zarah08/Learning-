@@ -127,3 +127,6 @@ Backups and disk checks are usually time-consuming tasks. An additional benefit 
 In Linux and macOS, the cron service is responsible for scheduled tasks. As a service, cron runs in the background and executes tasks at specific dates and times. cron uses a schedule table called a cron table that can be edited with the crontab command.
 
 Also known as patches, OS updates are released periodically by OS companies to address any known vulnerability in their operating systems. While companies have update schedules, the release of unscheduled OS updates is common when a major vulnerability is found in the OS code. Modern operating systems will alert the user when updates are available for download and installation, but the user can check for updates at any time.
+
+Firmware Updates
+Usually held in non-volatile memory, such as ROM or Flash, firmware is a type of software designed to provide low-level functionality for a device. Check for firmware updates with the manufacturer and update the system if new versions are available.
