@@ -163,4 +163,12 @@ GUI vs CLI Graphical User Interface vs Command Line Interface
 While graphical user interfaces (GUIs) are intuitive and user-friendly, CLIs can provide quicker, more flexible, and efficient system management, especially useful for repetitive or complex administrative tasks. Some devices only allow management through CLI commands.
 Common tasks that benefit from CLI use include batch file management, network configurations, and running diagnostic tools.
 
+Linux prompts generally follow this structure:
+user@hostname /home/user/Desktop $
+In the above prompt:
+user is the name of the logged-in user.
+hostname is the name of the system or host.
+/home/user/Desktop is the current working directory.
+$ indicates a normal user prompt (a # symbol typically indicates the root user).
+
 
