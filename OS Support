@@ -177,3 +177,14 @@ Absolute path: Starts at the root directory (Linux: /) or with a drive letter (W
 Relative path: Defined based on the current working directory; it doesn't begin with the root directory or drive letter.
 For example, the following is an example of an absolute path:
 /home/user/Desktop
+
+CLI Command Structure
+Commands entered in the CLI typically consist of three components: commands, options, and arguments.
+Commands identify the utility or action to be performed.
+Options are optional parameters that modify the behavior of the command, usually indicated by a dash (-).
+Arguments provide additional information that guides the command's function and may sometimes be required for execution.
+Example: ls -l /home/user
+Explanation:
+-Command: ls, the utility executed that is a listing of files and directories
+-Option: -l, an optional parameter to list files in a detailed, long format
+-Argument: /home/student, specifying the directory path you want to list
