@@ -136,3 +136,8 @@ In general, antivirus and antimalware rely on code signatures to operate. Signat
 
 Virtualization allows you to create and run a virtual version of a computer system inside another system. Instead of needing separate physical machines, virtualization lets you run multiple operating systems on a single computer.
 Software such as VirtualBox allows you to create a virtual machine (VM). This is a virtual environment that mimics a real computer. The physical computer (your Mac or Windows PC) is called the host, and the virtual computer (Ubuntu for example) is called the Guest.
+
+One major advantage of virtualization is overall reduced cost:
+Less equipment is required: Virtualization enables server consolidation, which requires fewer physical devices and lowers maintenance costs.
+Less energy is consumed: Consolidating servers lowers the monthly power and cooling costs.
+Less space is required: Server consolidation reduces the amount of required floor space.
