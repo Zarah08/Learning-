@@ -215,4 +215,35 @@ Brightness Issues? Scenario: A user asks, “Why is my screen too dark even when
 What to do:
 Instruct the user to adjust brightness using the F1 (decrease) and F2 (increase) keys or in System Settings > Displays. Users may also adjust the brightness from the Control Center. If the brightness changes unexpectedly, have them turn off Automatically adjust brightness, as shown in the figure, and check if True Tone or Night Shift is affecting the display.
 
+Where Do External Drive Show Up on macOS?
+
+The Desktop: It should appear as an icon on the desktop
+Finder Sidebar: Under “Locations”, it may appear as a connected device
+Disk Utility: Built-in macOS tool that shows all connected drives, even ones that won’t mount properly.
+macOS is designed to recognize and mount external drives automatically. Sometimes a drive does not appear as expected though. This can happen for various reasons such as a hardware connection issue, software settings, or problems with the file system on the drive. There are several troubleshooting steps that can help resolve these issues.
+
+Browser
+As an IT support technician, a common issue you will troubleshoot is webpages loading slowly or not properly. There are several reasons of why this may be happening, such as too many tabs open, slow internet connection, or an excessive amount of cached data.
+
+Airdrop
+AirDrop is a quick and easy way to share files, photos, and more between Apple devices. It uses Bluetooth to discover nearby devices and Wi-Fi to transfer files. But sometimes, AirDrop doesn’t work as expected.
+
+ACTIVITY MONITOR
+Sometimes, an app or process may freeze or become unresponsive. When this happens, closing it the normal way won’t work. That’s when you use Activity Monitor to force it to quit, freeing up system resources and getting the Mac back to normal.
+
+When and How to Terminate a Process
+Sometimes users will need to use Activity Monitor to terminate a process. Users should consider terminating a process when:
+An application becomes unresponsive or freezes
+A process is consuming excessive CPU or memory
+A background process is affecting system performance
+
+To prevent losing important files like photos, documents, and apps on macOS, Apple provides two main ways to back up data: iCloud and Time Machine.
+
+Time Machine is a backup feature built into macOS. It saves copies of your files to an external hard drive. Time Machine creates full system backups, meaning you can restore your Mac exactly as it was at certain point in time. Time Machine backs up:
+The entire macOS system, including settings
+All files and apps
+Different versions of files, allowing recovery of older copies
+
+POWER MANAGEMENT 
+Power management is an important part of keeping your Mac running efficiently. It helps balance performance and battery life as well as reduce energy consumption. When users experience battery drain, unexpected shutdowns, or sleep mode issues, they may turn to you for help. Understanding macOS power management settings and troubleshooting common power issues is essential to assisting them effectively.
 
