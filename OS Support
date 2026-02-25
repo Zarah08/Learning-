@@ -152,3 +152,6 @@ Security: Virtualization can increase security, because virtual instances and en
 
 HYPERVISORS 
 The hypervisor is a program, firmware, or hardware that adds an abstraction layer on top of the physical hardware. The abstraction layer is used to create VMs. The hypervisor allocates hardware (CPU, memory, disk controllers, and networking) from the physical machine to the VM. Each of these VMs runs a complete and separate operating system.
+
+Type 1 Hypervisor - “Bare Metal” Approach
+Type 1 hypervisors are also called the “bare metal” approach because the hypervisor is installed directly on the hardware. Type 1 hypervisors are usually used on enterprise servers and data center networking devices.
