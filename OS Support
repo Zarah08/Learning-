@@ -149,3 +149,6 @@ Increased server uptime: Most server virtualization platforms now offer advanced
 Improved disaster recovery: Most enterprise server virtualization platforms have software that can help test and automate failover before a disaster happens.
 Legacy support: Virtualization can extend the life of OSs and applications providing more time for organizations to migrate to newer solutions.
 Security: Virtualization can increase security, because virtual instances and environments are isolated from one another even if they are on the same physical machine.
+
+HYPERVISORS 
+The hypervisor is a program, firmware, or hardware that adds an abstraction layer on top of the physical hardware. The abstraction layer is used to create VMs. The hypervisor allocates hardware (CPU, memory, disk controllers, and networking) from the physical machine to the VM. Each of these VMs runs a complete and separate operating system.
