@@ -171,4 +171,9 @@ hostname is the name of the system or host.
 /home/user/Desktop is the current working directory.
 $ indicates a normal user prompt (a # symbol typically indicates the root user).
 
-
+Absolute and Relative Paths
+Paths help navigate and identify file locations:
+Absolute path: Starts at the root directory (Linux: /) or with a drive letter (Windows).
+Relative path: Defined based on the current working directory; it doesn't begin with the root directory or drive letter.
+For example, the following is an example of an absolute path:
+/home/user/Desktop
