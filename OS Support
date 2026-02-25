@@ -188,3 +188,5 @@ Explanation:
 -Command: ls, the utility executed that is a listing of files and directories
 -Option: -l, an optional parameter to list files in a detailed, long format
 -Argument: /home/student, specifying the directory path you want to list
+
+Simulation tools like Syntax Checker typically do not have all the functionality of real equipment. In each Syntax Checker, you are given a set of instructions to enter a specific set of commands. You cannot progress in Syntax Checker unless the exact and full command is entered as specified. If you are having difficulty, select the Show Me button and Syntax Checker will supply the answer. You can Reset at any time to restart the activity. The Show All button will display the entire activity.
