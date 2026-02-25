@@ -202,3 +202,11 @@ True Tone: Uses sensors to adjust the screen’s color temperature based on ambi
 Text or image too large? Scenario: A user complains, “The text on my Mac is way too small to read, and I can’t find a way to fix it.”
 What to do:
 Open System Settings > Displays and select a resolution, 
+
+Unrecognised Monitor? Scenario: A user says: “I just connected a second monitor, but my Mac isn’t recognizing it.”
+What to do:
+First, check the HDMI, USB-C, or Thunderbolt connection. If the cable is secure but the display is still not detected, guide the user to System Settings > Displays and click Detect Displays. If the issue continues, restarting the Mac while the external monitor is plugged in often resolves the problem.
+
+Screen flikering or glitching? Scenario: A user reports, “My screen keeps flashing randomly, and sometimes I see weird lines.”
+What to do:
+First, check if the refresh rate is set correctly in System Settings >Displays, as shown in the figure. If flickering continues, have the user turn off True Tone and Night Shift, as these features adjust colors dynamically. If the issue persists, booting into Safe Mode (holding Shift while restarting) helps determine if third-party software is causing the problem
