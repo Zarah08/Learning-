@@ -264,3 +264,35 @@ Mobile Device Management (MDM) refers to software solutions that help organizati
 Performance Issues
 Crashes and Freezes: Apps may crash or freeze unexpectedly, disrupting user experience. 
 Slow Loading Times: Apps can take a long time to load, which can be frustrating for users. 
+
+CLOUD COMPUTING SERVICES 
+As you start exploring cloud computing, you'll quickly notice three big players dominating the market: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+Choose AWS if you're looking for the broadest set of services, market maturity, and reliability.
+Choose Azure if you're already committed to Microsoft solutions, or need a smooth enterprise integration.
+Choose GCP if your main focus is innovation around data, analytics, AI/ML, or open-source and cloud-native technologies.
+
+Cloud service providers can provide various services tailored to meet customer requirements. However, most cloud computing services can be categorized into three main cloud computing services as defined by the National Institute of Standards and Technology (NIST) in their Special Publication (800-145). PaaS, IaaS and SaaS. 
+
+Software as a Service (SaaS)
+The cloud provider provides access to services, such as email, calendar, communication, and office tools over the Internet on a subscription basis. Users access the software using a browser or locally installed app. Local apps on a device may access these services transparently. Advantages include minimal upfront costs for customers and immediate application availability. SaaS providers include Salesforce customer management relationship (CRM) software, Microsoft Office 365, MS SharePoint software, Google Workspace and iCloud.
+Software applications (e.g., email, Office 365, Google Apps) are provided over the network on a subscription basis
+Typically used by end users.
+
+Platform as a Service (PaaS)
+The cloud provider provides access to operating systems, development tools, programming languages, and libraries used to develop, test, and deliver applications. This is useful to application developers. The cloud provider manages the underlying network, servers, and cloud infrastructure. PaaS providers include Amazon Web Service, Oracle Cloud, Google Cloud Platform and Microsoft Azure.
+Includes tools and services used to deliver the applications
+Includes OS and applications stack
+Typically requested by application and software developers
+
+Infrastructure as a Service (IaaS)
+The cloud provider manages the network and provides organizations access to network equipment, virtualized network services, storage, software, and supporting network infrastructure. There are many advantages for organizations to adopt IaaS. Organizations do not need to invest in capital equipment and only pay for usage on-demand. The provider network includes redundancy and eliminates a single point of failure in the provider network infrastructure. The network can also scale seamlessly based on current requirements. IaaS providers include Amazon Web Service and Microsoft Azure.
+Includes network, computers (virtual or dedicated), and storage
+Typically used by organization infrastructure and network architects
+
+Cloud Models
+There are four primary cloud models:
+Public clouds: Cloud-based applications and services offered in a public cloud are made available to the general population. Services may be free or are offered on a pay-per-use model, such as paying for online storage. The public cloud uses the internet to provide services.
+Private clouds: Cloud-based applications and services offered in a private cloud are intended for a specific organization or entity, such as the government. A private cloud can be set up using the private network of an organization, though this can be expensive to build and maintain. A private cloud can also be managed by an outside organization with strict access security.
+Hybrid clouds: A hybrid cloud is made up of two or more clouds (example: part private, part public), where each part remains a separate object, but both are connected using a single architecture. Individuals on a hybrid cloud would be able to have degrees of access to various services based on user access rights.
+Community clouds: A community cloud is created for exclusive use by a specific community. The differences between public clouds and community clouds are the functional needs that have been customized for the community. For example, healthcare organizations must remain compliant with policies and laws (e.g., HIPAA) that require special authentication and confidentiality.
+
