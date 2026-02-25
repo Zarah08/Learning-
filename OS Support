@@ -247,3 +247,20 @@ Different versions of files, allowing recovery of older copies
 POWER MANAGEMENT 
 Power management is an important part of keeping your Mac running efficiently. It helps balance performance and battery life as well as reduce energy consumption. When users experience battery drain, unexpected shutdowns, or sleep mode issues, they may turn to you for help. Understanding macOS power management settings and troubleshooting common power issues is essential to assisting them effectively.
 
+OPEN SOURCE VS CLOSED SOURCE 
+Before users can analyze and modify software, they must be able to see the source code. Source code is the sequence of instructions that is written in human readable language, before it is turned into machine language (zeroes and ones). The source code is an important component of free software as it allows the users to analyze and eventually modify the code. When the developer chooses to provide the source code, the software is said to be open source. If the program’s source code is not published, the software is said to be closed source.
+
+Andriod is open source while apple is closed source
+Problems that users experience with their mobile devices are often a combination of hardware and software malfunctions. Most smartphones and tablets contain many of the same standard hardware components.
+Internal components include processor, memory, storage, battery, and sensors. Connectivity components contained inside the device include:
+Cellular Modem: Connects to cellular networks for calls and data (4G, 5G).
+Wi-Fi Module: Connects to wireless internet networks.
+Bluetooth Module: Connects to wireless accessories.
+NFC (Near Field Communication) Module: Used for contactless payments and data transfer.
+GPS Module: Provides location tracking and navigation.
+
+Mobile Device Management (MDM) refers to software solutions that help organizations control, secure, and manage mobile devices like smartphones, tablets, and laptops. For IT Support desks, MDM is an essential tool that allows technicians to remotely monitor devices, enforce security policies, and manage applications across both company-owned and personal devices (BYOD). If you get hired as an IT support technician for a large organization, you will most likely be trained to use their implementation of an MDM. The figure shows the Cisco Meraki dashboard for managing all the wired and wireless devices in the organization. Key features include device enrollment, security configuration enforcement, remote app management, remote wiping capabilities, and compliance monitoring.
+
+Performance Issues
+Crashes and Freezes: Apps may crash or freeze unexpectedly, disrupting user experience. 
+Slow Loading Times: Apps can take a long time to load, which can be frustrating for users. 
