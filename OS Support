@@ -158,3 +158,6 @@ Type 1 hypervisors are also called the “bare metal” approach because the hyp
 
 Type 2 Hypervisor - “Hosted” Approach
 A Type 2 hypervisor is software that creates and runs VM instances. The computer, on which a hypervisor is supporting one or more VMs, is a host machine. Type 2 hypervisors are also called hosted hypervisors. This is because the hypervisor is installed on top of the existing OS, such as macOS, Windows, or Linux. Then, one or more additional OS instances are installed on top of the hypervisor, as shown in the figure. A big advantage of Type 2 hypervisors is that management console software is not required.
+
+GUI vs CL Graphical User Interface vs Command Line
+While graphical user interfaces (GUIs) are intuitive and user-friendly, CLIs can provide quicker, more flexible, and efficient system management, especially useful for repetitive or complex administrative tasks. Some devices only allow management through CLI commands.
