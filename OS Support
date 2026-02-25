@@ -155,3 +155,6 @@ The hypervisor is a program, firmware, or hardware that adds an abstraction laye
 
 Type 1 Hypervisor - “Bare Metal” Approach
 Type 1 hypervisors are also called the “bare metal” approach because the hypervisor is installed directly on the hardware. Type 1 hypervisors are usually used on enterprise servers and data center networking devices.
+
+Type 2 Hypervisor - “Hosted” Approach
+A Type 2 hypervisor is software that creates and runs VM instances. The computer, on which a hypervisor is supporting one or more VMs, is a host machine. Type 2 hypervisors are also called hosted hypervisors. This is because the hypervisor is installed on top of the existing OS, such as macOS, Windows, or Linux. Then, one or more additional OS instances are installed on top of the hypervisor, as shown in the figure. A big advantage of Type 2 hypervisors is that management console software is not required.
