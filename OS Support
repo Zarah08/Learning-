@@ -210,3 +210,9 @@ First, check the HDMI, USB-C, or Thunderbolt connection. If the cable is secure 
 Screen flikering or glitching? Scenario: A user reports, “My screen keeps flashing randomly, and sometimes I see weird lines.”
 What to do:
 First, check if the refresh rate is set correctly in System Settings >Displays, as shown in the figure. If flickering continues, have the user turn off True Tone and Night Shift, as these features adjust colors dynamically. If the issue persists, booting into Safe Mode (holding Shift while restarting) helps determine if third-party software is causing the problem
+
+Brightness Issues? Scenario: A user asks, “Why is my screen too dark even when I turn the brightness up?”
+What to do:
+Instruct the user to adjust brightness using the F1 (decrease) and F2 (increase) keys or in System Settings > Displays. Users may also adjust the brightness from the Control Center. If the brightness changes unexpectedly, have them turn off Automatically adjust brightness, as shown in the figure, and check if True Tone or Night Shift is affecting the display.
+
+
