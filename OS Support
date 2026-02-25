@@ -198,3 +198,7 @@ Refresh Rate: How many times per second the screen updates (measured in Hz). Mos
 Scaling: Adjusts the size of text and UI elements on Retina displays without changing resolution. A scaled resolution can make text appear larger or allow more content to fit on the screen.
 Night Shift: Reduces blue light in the evening by shifting the display to a warmer color tone, helping reduce eye strain.
 True Tone: Uses sensors to adjust the screen’s color temperature based on ambient lighting, making the display look more natural in different environments.
+
+Text or image too large? Scenario: A user complains, “The text on my Mac is way too small to read, and I can’t find a way to fix it.”
+What to do:
+Open System Settings > Displays and select a resolution, 
