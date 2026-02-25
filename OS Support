@@ -190,3 +190,11 @@ Explanation:
 -Argument: /home/student, specifying the directory path you want to list
 
 Simulation tools like Syntax Checker typically do not have all the functionality of real equipment. In each Syntax Checker, you are given a set of instructions to enter a specific set of commands. You cannot progress in Syntax Checker unless the exact and full command is entered as specified. If you are having difficulty, select the Show Me button and Syntax Checker will supply the answer. You can Reset at any time to restart the activity. The Show All button will display the entire activity.
+
+Common Display Terms for macOS:
+Retina Display: A high-resolution screen found on MacBooks and iMacs that makes text, and images look sharper by increasing pixel density.
+Resolution: The number of pixels on the screen. Having a higher resolution will give sharper images and text. Retina displays often use a scaled resolution to balance clarity and screen space.
+Refresh Rate: How many times per second the screen updates (measured in Hz). Most Mac displays use a refresh rate of 60Hz. A higher refresh rate reduces flickering and gives a smoother motion. Apple Silicon Macs often support variable refresh rates called ProMotion that allows a display to adjust its refresh rate to suite the content being viewed.
+Scaling: Adjusts the size of text and UI elements on Retina displays without changing resolution. A scaled resolution can make text appear larger or allow more content to fit on the screen.
+Night Shift: Reduces blue light in the evening by shifting the display to a warmer color tone, helping reduce eye strain.
+True Tone: Uses sensors to adjust the screen’s color temperature based on ambient lighting, making the display look more natural in different environments.
