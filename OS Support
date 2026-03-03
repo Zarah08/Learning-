@@ -316,7 +316,13 @@ Visited Data center
 -Unable to open 
 
 Proceeded to launch ubuntu, gave necessary permissions, verified settings and clicked start
-Ubuntu running , 
+Ubuntu running 
+
+Ran a command 
+
+failed command then troublr shooted and realized Update was needed first 
+sudo apt update
+then
 
 
 
