@@ -327,4 +327,6 @@ $ sudo apt install bzip2 gcc make
 
 verified installation ✅
 
+What are the advantages and disadvantages of using a virtual machine?
+With a virtual machine, you can test new applications or operating systems without affecting your host machine. You are also able to save the current machine state when you close the virtual machine. If you have any issues, you have the option to revert the virtual machine to a previously saved state. On the other hand, a virtual machine requires hardware resources from the host machine, such as hard drive space, RAM, and processing power.
 
