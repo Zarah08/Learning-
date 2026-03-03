@@ -319,10 +319,11 @@ Proceeded to launch ubuntu, gave necessary permissions, verified settings and cl
 Ubuntu running 
 
 Ran a command 
-
+$ sudo apt install bzip2 gcc make
 failed command then troublr shooted and realized Update was needed first 
-sudo apt update
+$ sudo apt update
 then
+$ sudo apt install bzip2 gcc make
 
 
 
