@@ -325,5 +325,6 @@ $ sudo apt update
 then
 $ sudo apt install bzip2 gcc make
 
+verified installation ✅
 
 
