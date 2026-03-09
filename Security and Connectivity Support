@@ -59,3 +59,8 @@ gpupdate /force	Reapply all rules again
 Permissions control what actions a user can perform on files, folders, and system resources. These permissions help maintain security, prevent accidental changes, and ensure users can only access and change the data they are authorized to use.
 
 Operating systems support a set of standard permissions for files and folders.
+
+To verify permissions in Windows, follow these steps:
+Step 1: Right-click on any file or folder and choose Properties. This will open a window that shows general information about the item.
+Step 2: Select the Security tab. Here you will find a list of all users and groups that have access.
+Step 3: Select a name from the list. Below that, you will see what the user can do. Options like Read, Write, Modify, or Full Control will be checked or unchecked. In the figure, the Guests user only has permissions to Read & execute, List folder contents, and Read anything in the m1 folder.
