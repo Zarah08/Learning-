@@ -83,4 +83,9 @@ Password Reset due to Blocked Account
 Resetting Windows Passwords
 As a support desk agent, you will encounter users who are locked out of their accounts because of multiple failed logins or forgotten passwords. These users will be frustrated and eager to regain access. While it is important for you to provide assistance, it is imperative that you follow established security protocols without exception. Resetting passwords and unlocking accounts are high-risk actions to security if not performed correctly.
 
+Active Directory (AD) allows administrators to manage users, computers, and resources in a Windows network, usually in enterprise settings, such as schools and businesses. When a user logs in to a device, AD checks the user’s credentials, loads the permissions, and applies security policies.
+
+A printer is a peripheral device that produces a physical copy of digital documents, images, or forms. Printers may connect directly to a computer using a USB cable or wirelessly through Wi-Fi or a network. Many modern printers are multifunction devices (MFDs) that include printing, scanning, copying, and faxing features.
+Even though faxing may seem outdated, it is still widely used, especially in healthcare, law, and government, because it is fast, secure, and does not require internet access. 
+
 
