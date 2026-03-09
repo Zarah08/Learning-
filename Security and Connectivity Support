@@ -7,3 +7,9 @@ Entra ID
 AWS IAM 
 
 Local Users and Groups is a basic directory service available on individual computers, especially in standalone systems not connected to a centralized domain.
+
+Active Directory, shown in the figure, is Microsoft’s centralized directory service used in enterprise environments. It runs on Windows Server and allows centralized management of users, computers, groups, and security policies.
+
+Local Users = one computer
+Active Directory = whole network
+
