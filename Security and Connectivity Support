@@ -5,3 +5,5 @@ Local Users and Groups
 Active Directory
 Entra ID
 AWS IAM 
+
+Local Users and Groups is a basic directory service available on individual computers, especially in standalone systems not connected to a centralized domain.
