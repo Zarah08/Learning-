@@ -20,3 +20,8 @@ Amazon Web Services (AWS) IAM is a cloud-native directory service designed to ma
 Multifactor Authentication
 Connecting to directory services requires authentication. Traditionally, this meant entering just a username and password. However, it has become more common to require multifactor authentication (MFA) to improve security. Eg Authenticator, Duo Mobile. 
 Multifactor authentication uses a combination of different types of proof to verify a user’s identity. These include a combination of different technologies, such as a password, a smart card, and biometrics, to authenticate a user. Two-factor authentication combines two of these elements, like a password and a smart card. Three-factor authentication combines all three, something a user knows, something they have, and some type of biometric component like a thumb or eye retina scan.
+
+A more secure method of MFA uses authenticator applications. These apps are installed directly on the user’s phone or tablet. Instead of receiving a code through text or email, the app generates a one-time password locally on the device. The app and the server both use the same secret key and the current time to generate matching codes. These codes are usually valid for 30 to 60 seconds and do not travel through a network, making them much harder for an attacker to intercept. Some examples of authenticator apps include:
+Microsoft Authenticator
+Google Authenticator
+Duo Mobile
