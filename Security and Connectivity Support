@@ -17,3 +17,5 @@ Entra ID, shown in the figure, is Microsoft’s cloud-based identity and access 
 
 Amazon Web Services (AWS) IAM is a cloud-native directory service designed to manage access to AWS resources. Unlike traditional directory services, IAM focuses on permissions for cloud infrastructure, applications, and services within the AWS ecosystem.
 
+Multifactor Authentication
+Connecting to directory services requires authentication. Traditionally, this meant entering just a username and password. However, it has become more common to require multifactor authentication (MFA) to improve security.
