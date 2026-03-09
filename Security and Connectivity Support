@@ -38,3 +38,15 @@ Onedrive- Microsoft
 Google drive - google 
 Dropbox -file hosting service 
 Amazon S3 (Simple Storage Service) is a powerful cloud storage system used mainly in business and development environments. Files are stored in “buckets” and accessed through apps or tools using access keys. It is more technical and is often managed by IT teams or developers.
+
+In Microsoft Active Directory, a Group Policy Object (GPO) is simply a set of rules or settings for computers and users.
+These rules can control things like:
+-Password requirements
+-Desktop background
+-Which apps users can open
+-Security settings
+An IT admin creates these rules and applies them to parts of the network such as:
+-Sites
+-Domains
+-Organizational Units (OUs)
+Once applied, all computers or users in that group automatically follow those rules.
