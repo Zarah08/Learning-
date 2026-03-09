@@ -64,3 +64,8 @@ To verify permissions in Windows, follow these steps:
 Step 1: Right-click on any file or folder and choose Properties. This will open a window that shows general information about the item.
 Step 2: Select the Security tab. Here you will find a list of all users and groups that have access.
 Step 3: Select a name from the list. Below that, you will see what the user can do. Options like Read, Write, Modify, or Full Control will be checked or unchecked. In the figure, the Guests user only has permissions to Read & execute, List folder contents, and Read anything in the m1 folder.
+
+In Google Drive, for example, when you share a file or folder, you can choose what other people can do with it:
+Viewer - Can see the file but can’t change anything
+Commentor - Can add comments, but can’t change the actual content
+Editor - Can make changes, delete things, or even share the file with others
