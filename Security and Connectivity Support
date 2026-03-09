@@ -28,3 +28,5 @@ Duo Mobile
 
 Shared Drives 
 In many workplaces, employees need a way to store and access files together. Instead of keeping documents on their own computers, they often use shared drives. A shared drive is a place where multiple users can store, open, and work on files, either over a local network or through cloud services.
+
+As a support technician, you will need to be able to help users connect to these shared drives, troubleshoot problems when drives do not show up, and make sure the right people have access to the right files. Some shared drives are located on a company’s internal server and use a system called SMB (Server Message Block). Others are in the cloud, like OneDrive, Google Drive, Dropbox, or Amazon S3.
