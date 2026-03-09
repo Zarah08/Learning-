@@ -1,1 +1,7 @@
 Directory services help manage users, computers, and access to network based resources. They provide a way to manage and store user identities, ensuring only authorized users can access specific files, applications, and systems. Organizations use directory services to simplify authentication, enforce security policies, and help streamline access to local and cloud-based resources.
+
+In IT support, different directory services help users log in to computers, access network drives, use cloud applications, and interact with shared resources. The four most common directory services are:
+Local Users and Groups
+Active Directory
+Entra ID
+AWS IAM 
