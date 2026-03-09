@@ -30,3 +30,11 @@ Shared Drives
 In many workplaces, employees need a way to store and access files together. Instead of keeping documents on their own computers, they often use shared drives. A shared drive is a place where multiple users can store, open, and work on files, either over a local network or through cloud services.
 
 As a support technician, you will need to be able to help users connect to these shared drives, troubleshoot problems when drives do not show up, and make sure the right people have access to the right files. Some shared drives are located on a company’s internal server and use a system called SMB (Server Message Block). Others are in the cloud, like OneDrive, Google Drive, Dropbox, or Amazon S3.
+
+Cloud Drives
+Cloud shared drives are online storage spaces that allow users to store, access, and share files from anywhere with an internet connection. They’re used in both personal and professional settings.
+
+Onedrive- Microsoft 
+Google drive - google 
+Dropbox -file hosting service 
+Amazon S3 (Simple Storage Service) is a powerful cloud storage system used mainly in business and development environments. Files are stored in “buckets” and accessed through apps or tools using access keys. It is more technical and is often managed by IT teams or developers.
