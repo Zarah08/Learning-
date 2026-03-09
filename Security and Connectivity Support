@@ -69,3 +69,15 @@ In Google Drive, for example, when you share a file or folder, you can choose wh
 Viewer - Can see the file but can’t change anything
 Commentor - Can add comments, but can’t change the actual content
 Editor - Can make changes, delete things, or even share the file with others
+
+One of the most common challenges users face is being unable to log in due to forgotten passwords or account lockouts. As an IT support technician, your role involves helping users regain access to their accounts swiftly and securely.
+
+Password Reset due to Blocked Account 
+1- Login as administrator 
+2- Press Windows + R to open the Run box
+3- Type lusrmgr.msc and press Enter
+4- Right click on username and select set password
+5- Select proceed on warning dialog 
+6- Type the new password and confrim 
+
+
