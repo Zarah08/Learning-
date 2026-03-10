@@ -108,3 +108,5 @@ Traditionally, a local area network (LAN) is defined as a network that connects 
 A wireless LAN (WLAN) is similar to a LAN but wirelessly connects users and devices in a small geographical area instead of using a wired connection. A WLAN uses radio waves to transmit data between wireless devices.
 
 A wireless mesh network (WMN) uses multiple access points to extend the WLAN. The topology shows a wireless router. The two wireless APs extend the reach of the WLAN within the home. Similarly, businesses and municipalities can use WMNs to quickly add new areas of coverage.
+
+A metropolitan area network (MAN) is a network that spans across a large campus or a city. The network consists of various buildings connected through wireless or fiber optic media.
