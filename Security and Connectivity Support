@@ -106,3 +106,5 @@ A personal area network (PAN) is a network that connects devices, such as mice, 
 Traditionally, a local area network (LAN) is defined as a network that connects devices using cables in a small geographical area. However, the distinguishing characteristic for LANs today is that they are typically owned by an individual, such as in a home or small business, or wholly managed by an IT department, such as in a school or corporation.
 
 A wireless LAN (WLAN) is similar to a LAN but wirelessly connects users and devices in a small geographical area instead of using a wired connection. A WLAN uses radio waves to transmit data between wireless devices.
+
+A wireless mesh network (WMN) uses multiple access points to extend the WLAN. The topology shows a wireless router. The two wireless APs extend the reach of the WLAN within the home. Similarly, businesses and municipalities can use WMNs to quickly add new areas of coverage.
