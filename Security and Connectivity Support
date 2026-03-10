@@ -102,3 +102,5 @@ Consistency and repeatability - When documentation includes standard procedures,
 Compliance with regulations - Government and industry regulations may require periodic audits of network performance and security measures. Having good documentation provides proof that the network is in compliance.
 
 A personal area network (PAN) is a network that connects devices, such as mice, keyboards, printers, smartphones, and tablets within the range of an individual person. These devices are most often connected with Bluetooth technology. Bluetooth is a wireless technology that enables devices to communicate over short distances.
+
+Traditionally, a local area network (LAN) is defined as a network that connects devices using cables in a small geographical area. However, the distinguishing characteristic for LANs today is that they are typically owned by an individual, such as in a home or small business, or wholly managed by an IT department, such as in a school or corporation.
