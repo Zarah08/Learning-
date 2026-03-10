@@ -94,3 +94,9 @@ Some examples of teleconferencing tools include platforms like Cisco Webex, Zoom
 A printer is a peripheral device that produces a physical copy of digital documents, images, or forms. Printers may connect directly to a computer using a USB cable or wirelessly through Wi-Fi or a network. Many modern printers are multifunction devices (MFDs) that include printing, scanning, copying, and faxing features.
 
 A fax machine sends a copy of a paper document over a phone line to another fax machine, which then prints a copy on the receiving end. Even though faxing may seem outdated, it is still widely used, especially in healthcare, law, and government, because it is fast, secure, and does not require internet access.
+
+Network support technicians rely on network documentation to help them develop an overall view of how the network is structured and to assist them in troubleshooting network issues. Without good network documentation, support staff can spend hours attempting to isolate network problems and determine their cause. Other reasons to create and maintain network documentation are:
+
+Knowledge transfer - Networks evolve over time and the staff that support them can change. Good documentation means that knowledge of how the network is built and what services that it provides does not leave when employees leave. New team members benefit from the information provided by the previous technicians and do not have to start at the beginning each time an issue arises.
+Consistency and repeatability - When documentation includes standard procedures, configurations and settings, it ensures that everyone is working with the same information and reduces the chances for errors.
+Compliance with regulations - Government and industry regulations may require periodic audits of network performance and security measures. Having good documentation provides proof that the network is in compliance.
