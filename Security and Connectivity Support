@@ -112,3 +112,11 @@ A wireless mesh network (WMN) uses multiple access points to extend the WLAN. Th
 A metropolitan area network (MAN) is a network that spans across a large campus or a city. The network consists of various buildings connected through wireless or fiber optic media.
 
 A wide area network (WAN) connects multiple networks that are in geographically separated locations. Individuals and organizations contract for WAN access from a service provider. Your service provider for your home or mobile device connects you to the largest WAN, the internet. In the figure, the Tokyo and Moscow networks are connected through the internet.
+
+The two main methods used to connect devices to a network are wired LAN connections and wireless Wi-Fi connections.
+1- Wired LAN Characteristics
+Devices are connected using Ethernet cables to a switch or router.
+Can potentially offer faster data transfer rates compared to wireless.
+Provides a stable, reliable connection with little risk that the traffic will be intercepted.
+More difficult to sniff traffic because of limited access to the cables and devices.
+Requires a static location for the devices to connect.
