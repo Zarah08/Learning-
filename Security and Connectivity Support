@@ -152,3 +152,6 @@ Shielded twisted-pair (STP) was designed to provide better protection against EM
 Fiber-Optic Cable
 
 Fiber-optic cable is composed of two kinds of glass (core and cladding) and a protective outer shield (jacket), Because it uses light to transmit signals, fiber-optic cable is not affected by EMI or RFI. All signals are converted to light pulses as they enter the cable, and converted back into electrical signals when they leave it. This means that fiber-optic cable can deliver signals that are clearer, can go farther, and have greater bandwidth than cable made of copper or other metals. Although the optical fiber is very thin and susceptible to sharp bends, the properties of the core and cladding make it very strong.
+
+WIRELESS TECHNOLOGIES 
+Wireless technologies use the unlicensed radio waves range of the electromagnetic spectrum to send and receive data
