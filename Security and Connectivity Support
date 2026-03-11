@@ -191,7 +191,15 @@ IP Address- A mailing address is like an IP address.
 IP addressing is assigned by network administrators based on the location within the network.
 When a device moves from one network to another, its IP address will most likely change. An IP version 4 (IPv4) address is 32 bits and represented in dotted decimal notation. An IP version 6 (IPv6) address is 128 bits and is represented in hexadecimal format.
 
+IPV4 Adressing format 32 bits in dotted decimal notation
+192.168.200.8 
 
+IPV6 Adressing format 128 bits in hexadecimal format
+2001:0db8:cafe:0200:0000:0000:0000:0008
+128 bits in compressed format
+2001:db8:cafe:200::8
+
+topology with two LANs. This topology demonstrates that MAC addresses do not change when a device is moved. But IP addresses do change. The laptop was moved to LAN 2. Notice that the laptop’s MAC address did not change, but its IP addresses did change.
 
 
 
