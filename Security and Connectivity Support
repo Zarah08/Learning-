@@ -219,3 +219,9 @@ Optional values, such as a DNS server address
 Unicast = one sender → one receiver
 Broadcast = One sender → Everyone on the network
 Multicast = One sender → A group of devices
+The packet goes only to devices that joined a specific group, not everyone.
+
+Unlike IPv4 devices that usually have only a single address, IPv6 devices typically have two unicast addresses:
+
+Global Unicast Address (GUA) - This is similar to a public IPv4 address. These are globally unique, internet-routable addresses. GUAs can be configured statically or assigned dynamically.
+Link-Local Address (LLA) - This is required for every IPv6-enabled device. LLAs are used to communicate with other devices on the same local link. LLAs are confined to a single link. Their uniqueness must only be confirmed on that link because they are not routable beyond the link. In other words, routers will not forward packets with a link-local source or destination address.
