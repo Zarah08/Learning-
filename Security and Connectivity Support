@@ -201,5 +201,21 @@ IPV6 Adressing format 128 bits in hexadecimal format
 
 topology with two LANs. This topology demonstrates that MAC addresses do not change when a device is moved. But IP addresses do change. The laptop was moved to LAN 2. Notice that the laptop’s MAC address did not change, but its IP addresses did change.
 
+In a small network, you can manually configure each device with proper IP addressing. You would assign a unique IP address to each host within the same network. This is known as static IP addressing.
+On a Windows computer, as shown in the figure on the left, you can assign the following IPv4 address configuration information to a host:
+IP address - identifies this device on the network
+Subnet mask - is used to identify the network on which this device is connected
+Default gateway - identifies the router that this device uses to access the internet or another network
+Optional values - such as the preferred Domain Name System (DNS) server address and the alternate DNS server address
 
+Rather than manually configure every device, you can take advantage of implementing a Dynamic Host Configuration Protocol (DHCP) server. A DHCP server automatically assigns IP addresses, which simplifies the addressing process. Automatically configuring some of the IP addressing parameters also reduces the possibility of assigning duplicate or invalid IP addresses.
 
+A DHCP server can automatically assign the following IPv4 address configuration information to a host:
+IPv4 address
+Subnet mask
+Default gateway
+Optional values, such as a DNS server address
+
+Unicast = one sender → one receiver
+Broadcast = One sender → Everyone on the network
+Multicast = One sender → A group of devices
