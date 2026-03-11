@@ -160,3 +160,16 @@ Access point - This provides 802.11a/b/g/n/ac/ax/be wireless access.
 Switch - This provides ports for connecting wired devices.
 Router - This provides access to other networks, such as the internet.
 
+When building a wireless network, it is important that the wireless components connect to the appropriate WLAN. This is done using the SSID. The SSID is a case-sensitive, alphanumeric string that contains up to 32 characters. The SSID is used to tell wireless devices which WLAN they belong to and what other devices to which they can communicate.
+
+Wireless routers usually broadcast their configured SSIDs by default. The SSID broadcast allows other devices and wireless clients to automatically discover the name of the wireless network. When the SSID broadcast is disabled, you must manually enter the SSID on wireless devices.
+
+Disabling SSID broadcasting can make it more difficult for legitimate clients to find the wireless network. However, simply turning off the SSID broadcast is not sufficient to prevent unauthorized clients from connecting to the wireless network. All wireless networks should use the strongest available encryption to restrict unauthorized access.
+
+To extend the range of a wireless network, wireless access points (APs) are used. Wireless clients use their wireless NIC to discover nearby APs advertising their SSID. Clients then attempt to associate and authenticate with an AP. After being authenticated, wireless users have access to network resources. 
+APs can be categorized as either autonomous APs or controller-based APs.
+
+
+
+
+
