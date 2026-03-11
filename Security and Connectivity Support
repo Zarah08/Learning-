@@ -169,6 +169,13 @@ Disabling SSID broadcasting can make it more difficult for legitimate clients to
 To extend the range of a wireless network, wireless access points (APs) are used. Wireless clients use their wireless NIC to discover nearby APs advertising their SSID. Clients then attempt to associate and authenticate with an AP. After being authenticated, wireless users have access to network resources. 
 APs can be categorized as either autonomous APs or controller-based APs.
 
+For wireless devices to communicate over a network, they must first associate with an AP or wireless router. 
+Wireless devices complete the following three stage process, as shown in the figure:
+-Discover a wireless AP
+-Authenticate with AP
+-Associate with AP
+
+
 
 
 
