@@ -183,6 +183,13 @@ Network mode - This refers to the 802.11a/b/g/n/ac/ax/be WLAN standards. APs and
 Security mode - This refers to the security parameter settings, such as WEP, WPA, or WPA2. Always enable the highest security level supported.
 Channel settings - This refers to the frequency bands used to transmit wireless data. Wireless routers and APs can scan the radio frequency channels and automatically select an appropriate channel setting. The channel can also be set manually if there is interference with another AP or wireless device.
 
+These two types of addresses are the Media Access Control (MAC) address and the Internet Protocol (IP) address.
+
+MAC Address- A fingerprint is like a MAC address.
+IP Address- A mailing address is like an IP address.
+
+IP addressing is assigned by network administrators based on the location within the network.
+When a device moves from one network to another, its IP address will most likely change. An IP version 4 (IPv4) address is 32 bits and represented in dotted decimal notation. An IP version 6 (IPv6) address is 128 bits and is represented in hexadecimal format.
 
 
 
