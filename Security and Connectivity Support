@@ -245,3 +245,8 @@ It routes traffic to other networks.
 A default gateway is required to send traffic outside of the local network. Traffic cannot be forwarded outside the local network if there is no default gateway, the default gateway address is not configured, or the default gateway is down.
 
 On a Windows host, the route print or netstat -r command can be used to display the host routing table. Both commands generate the same output. The output may seem overwhelming at first, but is fairly simple to understand.
+
+Troubleshooting Default Gateway Issues
+There are a number of issues that can arise if the incorrect default gateway address or subnet mask is configured on a device:
+1- No internet access: If a device is assigned the wrong default gateway address, it will be unable to reach IP addresses that are on remote networks. Verify the router interface address and the default gateway address configured on the devices is the same. Often, the default gateway address is distributed through DHCP. Ensure that the DHCP server is configured with the correct gateway address.
+2- Some devices can communicate to remote networks, others on the same network cannot: If the subnet mask configured on a device does not match the subnet mask (or prefix length) configured on its default gateway, the device may not be able to correctly identify which destination addresses are on its local IP subnet and which ones are located on remote networks. Verify that all devices on the same local IP network are configured with same subnet mask as the default gateway interface address.
