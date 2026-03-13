@@ -297,3 +297,18 @@ Reception = DHCP server
 Rooms = IP addresses
 Available rooms list = scope
 Guests request a room, and reception assigns one from the available list.
+
+SLAAC (Stateless Address Autoconfiguration) is a feature in IPv6 that allows devices to automatically generate their own globally routable IP addresses based on the network prefix advertised by routers. This approach is well-suited for IoT and medical devices that need unique, routable addresses without centralized IP management.
+
+Firewalls are the gatekeepers that protect a network from unauthorized access and malicious threats. 
+A firewall protects computers and networks by preventing undesirable traffic from entering internal networks. For instance, the top topology in the figure illustrates how the firewall enables traffic from an internal network host to exit the network and return to the inside network. 
+
+Host-based firewalls are software programs that provide firewall services on a computer to allow or deny traffic to the computer. The host-based firewall applies a set of rules to data transmissions through inspection and filtering of data packets.
+
+Windows Defender Firewall is an example of a host-based firewall that helps prevent cybercriminals and malware from gaining access to your computer. It is installed by default when the Windows OS is installed.
+
+ipconfig (Windows)
+The ipconfig command is used to display and manage the network settings of a Windows machine. It can quickly provide details about the IP address, subnet mask, and default gateway for each network adapter on the system.
+
+ifconfig (Linux/Unix)
+Running ifconfig without any additional options provides a summary of the current network configuration. This output includes the IP address (192.168.1.105), subnet mask (255.255.255.0), and broadcast address (192.168.1.255) for the eth0 interface, as well as the hardware (MAC) address (00:0c:29:58:9b:0e) and the IPv6 LLA.
