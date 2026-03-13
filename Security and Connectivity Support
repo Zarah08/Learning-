@@ -312,3 +312,14 @@ The ipconfig command is used to display and manage the network settings of a Win
 
 ifconfig (Linux/Unix)
 Running ifconfig without any additional options provides a summary of the current network configuration. This output includes the IP address (192.168.1.105), subnet mask (255.255.255.0), and broadcast address (192.168.1.255) for the eth0 interface, as well as the hardware (MAC) address (00:0c:29:58:9b:0e) and the IPv6 LLA.
+
+Use ipconfig /release and ipconfig /renew on Windows or sudo dhclient on Linux to request a new IP.
+
+Use Cases for IT Support Technicians
+
+The ping and ping6 commands are essential for:
+Verifying basic network connectivity.
+Measuring network latency.
+Checking for packet loss.
+Troubleshooting DNS resolution issues.
+Confirming that a server or website is online.
