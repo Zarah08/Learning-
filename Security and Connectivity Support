@@ -259,4 +259,11 @@ Routers are networking devices that connect multiple networks and direct traffic
 | DHCP | Dynamic Host Configuration Protocol | Automatically gives devices an IP address when they join a network | Your laptop joins Wi-Fi and gets `192.168.1.10` |
 | HTTP | Hypertext Transfer Protocol**         | Transfers web pages between your browser and a web server          | Loads a website in your browser                 |
 
+DNS, or the Domain Name System, is the "phone book" of the internet. On the internet, fully-qualified domain names (FQDNs), such as http://www.cisco.com, are much easier for people to remember than 198.133.219.25, which is the actual numeric IP address for one of Cisco’s servers. You can verify that yourself by searching for “whois 198.133.219.25”.
+If Cisco decides to change the numeric IP address of www.cisco.com, it is transparent to the user because the domain name remains the same. The new address is simply linked to the existing domain name and connectivity is maintained.
+
+Initial Query: The first time a website address is requested, your device asks a DNS server for its IP address. It then stores (or "caches") that address locally.
+Fast Recall: If you visit the same website again, your device checks its local cache first. If the IP address is already saved, it skips asking the DNS server and loads the website faster.
+Expiration (Time-to-Live or TTL): DNS cache isn’t permanent. It has a "time-to-live" (TTL) limit. After the TTL expires, your device deletes the cached address and has to ask the DNS server again.
+
 
