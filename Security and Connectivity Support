@@ -252,3 +252,11 @@ There are a number of issues that can arise if the incorrect default gateway add
 2- Some devices can communicate to remote networks, others on the same network cannot: If the subnet mask configured on a device does not match the subnet mask (or prefix length) configured on its default gateway, the device may not be able to correctly identify which destination addresses are on its local IP subnet and which ones are located on remote networks. Verify that all devices on the same local IP network are configured with same subnet mask as the default gateway interface address.
 
 Routers are networking devices that connect multiple networks and direct traffic between them based on the destination IP address. This is crucial for connecting geographically dispersed branches to a central office, as it enables efficient data transfer and communication over long distances.
+
+| Protocol | Full Meaning                            | What it Does                                                       | Simple Example                                  |
+| -------- | --------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------- |
+| DNS | Domain Name System                 | Translates website names into IP addresses                         | Converts `google.com` → `142.250.x.x`           |
+| DHCP | Dynamic Host Configuration Protocol | Automatically gives devices an IP address when they join a network | Your laptop joins Wi-Fi and gets `192.168.1.10` |
+| HTTP | Hypertext Transfer Protocol**         | Transfers web pages between your browser and a web server          | Loads a website in your browser                 |
+
+
