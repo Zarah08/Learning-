@@ -272,3 +272,6 @@ Windows IPv4 APIPA
 
 In IPv4, the Windows operating system provides a method to automatically generate an IPv4 address using APIPA (Automatic Private IP Addressing). APIPA assigns an IP address in the range 169.254.0.1 to 169.254.255.254 when no static IP address is assigned and no DHCP server responds. This allows basic local network communication with other devices that are assigned APIPA addresses but does not provide internet connectivity.
 
+IPv6 must have a link-local address. If an LLA is not configured manually on an interface, the device will automatically create its own without communicating with a DHCP server. Recall that IPv6 link-local addresses are in the fe80::/10 range.
+
+In IPv6, there is another method of automatic address assignment that hosts can use to generate their own routable IPv6 addressing. Using the Stateless Address Autoconfiguration (SLAAC) available in IPv6 networks, hosts can configure their own addresses. Using this method, hosts receive the network prefix advertised by routers on their network segment and append their own unique identifier (usually the MAC address of the network interface).
