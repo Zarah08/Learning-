@@ -225,3 +225,8 @@ Unlike IPv4 devices that usually have only a single address, IPv6 devices typica
 
 Global Unicast Address (GUA) - This is similar to a public IPv4 address. These are globally unique, internet-routable addresses. GUAs can be configured statically or assigned dynamically.
 Link-Local Address (LLA) - This is required for every IPv6-enabled device. LLAs are used to communicate with other devices on the same local link. LLAs are confined to a single link. Their uniqueness must only be confirmed on that link because they are not routable beyond the link. In other words, routers will not forward packets with a link-local source or destination address.
+
+A device can send a packet to the following:
+1- Itself - A device can ping itself by sending a packet to a special IPv4 address of 127.0.0.1 or an IPv6 address ::1, which is referred to as the loopback interface. Pinging the loopback interface tests that networking is functioning on the device.
+2- Local device - This is a destination device that is on the same local network as the sending device. The source and destination devices share the same network address. For example, all the devices in your home are probably on the same network.
+3- Remote device - This is a destination device on a remote network. The source and destination devices do not share the same network address. For example, when you visit a website, you are sending packets to a remote network.
