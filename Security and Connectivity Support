@@ -323,3 +323,41 @@ Measuring network latency.
 Checking for packet loss.
 Troubleshooting DNS resolution issues.
 Confirming that a server or website is online.
+
+The traceroute command is used to track the path that packets take to reach a destination across an IP network. It provides a detailed map of the route, including the number of hops, round-trip times, and the IP addresses of intermediate routers. 
+The tracert command in Windows provides similar functionality to traceroute.
+
+Use Cases for traceroute6
+Technicians might use traceroute6 to:
+Diagnose slow IPv6 connections.
+Identify failing routers or broken links in IPv6 networks.
+Verify the reachability of IPv6-enabled services.
+Troubleshoot connectivity issues in dual-stack (IPv4 and IPv6) environments.
+
+The nslookup command allows you to verify DNS resolution.
+
+Use Cases for IT Support Technicians
+
+The nslookup command is essential for:
+
+Verifying DNS resolution for a specific domain.
+Troubleshooting DNS issues when a website is unreachable.
+Confirming that DNS changes have propagated correctly.
+Checking for misconfigured DNS servers.
+Testing both IPv4 and IPv6 connectivity.
+
+The iproute2 suite is a powerful collection of networking utilities used to manage and configure Linux network interfaces, routing tables, and traffic control. It replaces older tools like ifconfig, route, and netstat, providing more advanced features and flexibility. It is the default networking toolset on most modern Linux distributions, including Ubuntu, CentOS, Debian, and Fedora.
+
+An attack vector is a path by which a threat actor can gain access to a server, host, or network. Attack vectors originate from inside or outside the corporate network.
+
+A DoS attack occurs when a network device or application is incapacitated and no longer capable of supporting requests from legitimate users.
+
+An internal user, such as an employee, can accidentally or intentionally:
+
+Steal and copy confidential data to removable media, email, messaging software, and other media.
+Compromise internal servers or network infrastructure devices.
+Disconnect a critical network connection and cause a network outage.
+Connect an infected USB drive into a corporate computer system.
+Internal threats have the potential to cause greater damage than external threats because internal users have direct access to the building and its infrastructure devices. Employees may also have knowledge of the corporate network, its resources, and its confidential data.
+
+Network security professionals must implement tools and apply techniques for mitigating both external and internal threats.
