@@ -363,3 +363,6 @@ Internal threats have the potential to cause greater damage than external threat
 Network security professionals must implement tools and apply techniques for mitigating both external and internal threats.
 
 Malware refers to software specifically engineered to cause harm, disrupt operations, or gain unauthorized access to computer systems. 
+
+The first and most common type of computer malware is a virus. Viruses require human action to propagate and infect other computers. For example, a virus can infect a computer when a victim opens an email attachment, opens a file on a USB drive, or downloads a file.
+The virus hides by attaching itself to computer code, software, or documents on the computer. When opened, the virus executes and infects the computer.
