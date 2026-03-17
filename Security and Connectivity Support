@@ -378,3 +378,5 @@ A Trojan horse is a program that looks useful but also carries malicious code. T
 
 Reconnaissance is information gathering. 
 
+Non-repudiation means that a person cannot deny doing something in a computer system. If they send a file, log into a system, or approve a request, there will be clear and reliable evidence that shows they did it.
+
