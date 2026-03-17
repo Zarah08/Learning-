@@ -386,3 +386,24 @@ Accountability – Knowing who did what and when.
 Legal Proof – Being able to show evidence if something goes wrong.
 Trust – Helping people trust the system and the data it contains.
 
+How organizations achieve repudiation
+
+Organizations use a few key methods to make sure actions in a system can be linked to specific users:
+
+Digital Signatures
+Digital signatures use encryption to verify that a message, document, or file came from a specific person. If someone tries to alter the content or send it from a different source, the signature will no longer be valid. This method is widely used in emails, contracts, and software distribution to ensure authenticity.
+Logging and Audit Trails
+Most systems automatically track user activity—such as login times, file access, and system changes. These logs show what happened and when, which is important for investigations or audits. For logs to be useful, they must be protected from tampering or deletion.
+Multi-Factor Authentication (MFA)
+MFA adds extra layers of security to the login process. Users prove who they are using something they know (like a password), something they have (like a phone or authentication token), or something they are (like a fingerprint). This helps ensure that the person accessing a system is truly who they claim to be.
+Access Controls
+Proper access control means that every user has a unique account and only the permissions they need to do their job. This way, any action taken within the system can be traced back to a specific individual. It also helps prevent unauthorized access to sensitive information.
+Non-Repudiation in Action
+
+Imagine a payroll specialist accessing the company’s HR system and initiating a batch payroll transfer. With proper non-repudiation controls in place:
+
+The specialist must log in using MFA.
+The system logs their actions, including the time, IP address, and nature of the transaction.
+The transfer request is digitally signed and archived.
+An audit trail is available to management and compliance teams.
+If a dispute arises (e.g., unauthorized changes to payroll), the organization can use this evidence to demonstrate who performed the action and when.
