@@ -380,3 +380,9 @@ Reconnaissance is information gathering.
 
 Non-repudiation means that a person cannot deny doing something in a computer system. If they send a file, log into a system, or approve a request, there will be clear and reliable evidence that shows they did it.
 
+Non-repudiation supports four goals in cybersecurity:
+Data Integrity – Making sure information hasn’t been changed without permission.
+Accountability – Knowing who did what and when.
+Legal Proof – Being able to show evidence if something goes wrong.
+Trust – Helping people trust the system and the data it contains.
+
