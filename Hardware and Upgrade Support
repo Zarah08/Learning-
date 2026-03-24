@@ -41,7 +41,7 @@ About This Mac
 Activity Monitor
 System Settings
 Console
-ipconfig
+ifconfig
 
 About This Mac gives you a quick overview. This tool offers a simple interface for viewing processor, memory, macOS version, and more. It can be found by selecting the Apple logo at the top left of the screen and choosing About This Mac. From here you will be able to view the following information, as shown in the figure:
 Processor (CPU) - Listed as “Chip” or “Processor”
@@ -51,6 +51,16 @@ Operating System Version - macOS name, version number, and build
 
 Activity Monitor is macOS’s version of Task Manager. While it doesn’t show most of the device information like Task Manager, it does show the total RAM. Open it by navigating to Finder > Applications > Utilities > Activity Monitor. Select the Memory tab to display the total installed RAM as well as the current usage. 
 
+System Settings is the main control panel for macOS. It’s where users can adjust display options, user accounts, security settings, networking configuration, and more. System Settings is also useful for locating the host name, checking IP and MAC addresses, and confirming system specs like macOS version and storage capacity.
+
+Console is macOS’s built-in system log viewer, like Windows Event Viewer. It can help technicians review behind the scenes system activity like software errors, crashes, app behaviors, and shutdown events. While it doesn’t show specs like CPU or IP addresses, it can help you understand when and why something went wrong.
+To use Console, open Finder > Applications > Utilities > Console. Use the sidebar to explore any of the following reports. The system.log is shown in the figure.
+Crash Reports - Logs when an app or system process crashes
+Spin Reports - Logs when an app becomes unresponsive
+Log Reports - Include general system messages and events
+Diagnostic Reports - Shows test and crash data used for diagnostics
+Mac Analytics Data - Anonymous reports sent to Apple (can include crash data)
+system.log - Ongoing log of system activity, including errors and background tasks.
 
 
 
