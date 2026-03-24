@@ -11,3 +11,24 @@ RAM is temporary storage that helps the computer run multiple applications simul
 Disk Space: This is the amount of permanent storage available for the operating system, applications, and files. If there isn’t enough disk space, the computer might not be able to install updates, save files, and can cause slowdowns or errors. Imagine a user calls and says, “I can’t install this new program.” You check their system and discover they only have 10GB of space left. You can help them delete old downloads and unused apps to free up room.
 
 The operating system version tells you which version of Windows you have installed. This is important for software compatibility, security updates, and troubleshooting. Suppose an app won’t install for a user. You can check their OS version and if they are on an outdated release, you can help them run Windows Update to get the latest version.
+
+IP address IPV4 and APV6 These are numbers assigned to the device on a network to identify it. They are important for troubleshooting network connectivity problems and verifying that the device is correctly connected to the network.
+
+There are two types of IP addresses, IPv4 and IPv6. IPv4 is the older format and has 4 sets of numbers separated by dots, such as 192.168.1.1. It was widely used for years, but with the massive growth of internet connected devices, the available addresses started running out. That is where IPv6 comes in. It uses a longer format with letters and numbers, like 2001:db8:85a3::8a2e:370:7334, and supports practically an unlimited number of devices. Being able to recognize the difference can help you quickly spot potential network configuration issues.
+
+MAC (Media Access Control) address is a permanent, unique identifier assigned to a devices network adapter, like a Wi-Fi card or Ethernet port. It is made up of numbers and letters and is used to identify devices on a local network. It can be helpful for tracking device activity on larger networks and used for network filtering, like allowing or blocking devices.
+
+Windows provides several built-in tools that make finding device information quick and easy. Each of these tools helps you locate one or more of these items so you can troubleshoot or verify system details for support. Let’s look closer at the following tools:
+
+Task Manager
+System Information
+Event Viewer
+ipconfig
+
+Task Manager can help you locate the CPU name, amount of installed memory, and real-time disk activity. Under the Ethernet and Wi-Fi sections, you can also find the system’s IPv4 and IPv6 addresses.
+
+System Information is like a master list of everything installed and running on a Windows computer. It allows you to view the computer’s host name, processor, installed RAM, disk space, IP addresses, MAC address, Windows version, and more.
+
+As a customer support technician, this tool is useful when a user needs help installing software or upgrading their system.
+
+Event Viewer is where Windows keeps a history of everything that’s happened on the system. If the computer froze last night, restarted for no reason, or an app crashed without explanation, Event Viewer probably recorded it. While it doesn’t show hardware specs, it plays a key role in finding out why something went wrong.
