@@ -48,3 +48,5 @@ Processor (CPU) - Listed as “Chip” or “Processor”
 Memory (RAM) - Total installed RAM
 Serial Number - Used for warranty and Apple support
 Operating System Version - macOS name, version number, and build
+
+Activity Monitor is macOS’s version of Task Manager. While it doesn’t show most of the device information like Task Manager, it does show the total RAM. Open it by navigating to Finder > Applications > Utilities > Activity Monitor. Select the Memory tab to display the total installed RAM as well as the current usage
