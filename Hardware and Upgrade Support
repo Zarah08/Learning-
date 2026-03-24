@@ -41,7 +41,7 @@ About This Mac
 Activity Monitor
 System Settings
 Console
-ifconfig
+ipconfig
 
 About This Mac gives you a quick overview. This tool offers a simple interface for viewing processor, memory, macOS version, and more. It can be found by selecting the Apple logo at the top left of the screen and choosing About This Mac. From here you will be able to view the following information, as shown in the figure:
 Processor (CPU) - Listed as “Chip” or “Processor”
@@ -49,4 +49,9 @@ Memory (RAM) - Total installed RAM
 Serial Number - Used for warranty and Apple support
 Operating System Version - macOS name, version number, and build
 
-Activity Monitor is macOS’s version of Task Manager. While it doesn’t show most of the device information like Task Manager, it does show the total RAM. Open it by navigating to Finder > Applications > Utilities > Activity Monitor. Select the Memory tab to display the total installed RAM as well as the current usage
+Activity Monitor is macOS’s version of Task Manager. While it doesn’t show most of the device information like Task Manager, it does show the total RAM. Open it by navigating to Finder > Applications > Utilities > Activity Monitor. Select the Memory tab to display the total installed RAM as well as the current usage. 
+
+
+
+
+
