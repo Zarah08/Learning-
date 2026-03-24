@@ -32,3 +32,19 @@ System Information is like a master list of everything installed and running on 
 As a customer support technician, this tool is useful when a user needs help installing software or upgrading their system.
 
 Event Viewer is where Windows keeps a history of everything that’s happened on the system. If the computer froze last night, restarted for no reason, or an app crashed without explanation, Event Viewer probably recorded it. While it doesn’t show hardware specs, it plays a key role in finding out why something went wrong.
+
+ ipconfig
+The command-line utility, ipconfig, displays network settings. It can help troubleshoot network issues by showing how the computer is connected to the network.
+
+MacOS has several built-in tools to help you find device information quick and easy including the following:
+About This Mac
+Activity Monitor
+System Settings
+Console
+ifconfig
+
+About This Mac gives you a quick overview. This tool offers a simple interface for viewing processor, memory, macOS version, and more. It can be found by selecting the Apple logo at the top left of the screen and choosing About This Mac. From here you will be able to view the following information, as shown in the figure:
+Processor (CPU) - Listed as “Chip” or “Processor”
+Memory (RAM) - Total installed RAM
+Serial Number - Used for warranty and Apple support
+Operating System Version - macOS name, version number, and build
