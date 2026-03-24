@@ -1,3 +1,5 @@
 When helping an end user you first need to collect key information about the device. Knowing the computer’s identity, hardware specifications, and network details provide the foundation for troubleshooting and resolving technical issues.
 
 Collecting accurate device information is the foundation of troubleshooting. When a user reports a problem, you must quickly gather information about the computer. Knowing the computer’s identity, hardware specifications, and network details helps you identify issues and recommend solutions.
+
+Host Name: This is the unique name that identifies the computer on a network. It helps users and IT staff identify one device from another. In larger environments, like schools or businesses, it can help prevent confusion. For example, if a teacher says, “My laptop won’t connect to the projector,” and there are multiple laptops in your remote support tool, asking for the host name ensures that you are working on the correct device.
