@@ -101,3 +101,5 @@ Most chipsets consist of a northbridge and a southbridge, as shown in the figure
 
 Northbridge: Controls high speed access to the RAM and video card. It also controls the speed at which the CPU communicates with all of the other components in the computer. Video capability is sometimes integrated into the Northbridge.
 Southbridge: Allows the CPU to communicate with slower speed devices including hard drives, Universal Serial Bus (USB) ports, and expansion slots.
+
+Solid-state drives (SSD) store data as electrical charges in semiconductor flash memory. This makes SSDs much faster than magnetic HDDs.
