@@ -97,4 +97,7 @@ Potential hardware damage
 
 A chipset is a collection of integrated circuits on a computer’s motherboard that manages the flow of data between the CPU and the rest of the system. It acts as a central controller, coordinating how components like RAM, storage drives, graphics cards, and USB devices communicate with the processor. 
 
+Most chipsets consist of a northbridge and a southbridge, as shown in the figure:
 
+Northbridge: Controls high speed access to the RAM and video card. It also controls the speed at which the CPU communicates with all of the other components in the computer. Video capability is sometimes integrated into the Northbridge.
+Southbridge: Allows the CPU to communicate with slower speed devices including hard drives, Universal Serial Bus (USB) ports, and expansion slots.
