@@ -73,3 +73,9 @@ The GPU (Graphics Processing Unit) handles anything visual, such as videos, anim
 Device Manager is a critical tool for diagnosing and resolving hardware issues in Windows environments. It provides a centralized view of all connected devices and their status, making it easier to identify and address problems.
 
 Updating printer driver can solve printer related issues 
+
+Device Manager, shown at right, displays a list of all the devices installed in the computer, allowing you to diagnose and resolve device problems. You can view details about the installed hardware and drivers, as well as perform the following functions:
+Update a driver - Change the currently installed driver.
+Roll back a driver - Change the currently installed driver to the previously installed driver.
+Uninstall a driver - Remove a driver.
+Disable a device - Disable a device.
