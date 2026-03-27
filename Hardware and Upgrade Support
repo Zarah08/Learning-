@@ -83,3 +83,5 @@ Disable a device - Disable a device.
 Firmware is built into hardware and controls how devices start and communicate. It runs before the operating system loads and handles tasks like power-on tests and hardware setup.
 
 The operating system manages system resources such as memory, the CPU, storage, and input or output devices. It provides the interface for users to interact with the system and allows applications to run. Examples include Windows, macOS, Linux, and Android.
+
+Driver software helps the operating system work with specific hardware like printers or graphics cards. Drivers translate system commands into instructions that hardware understands. Without the right drivers, devices may not work properly.
