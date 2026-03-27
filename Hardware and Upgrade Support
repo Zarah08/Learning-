@@ -103,3 +103,9 @@ Northbridge: Controls high speed access to the RAM and video card. It also contr
 Southbridge: Allows the CPU to communicate with slower speed devices including hard drives, Universal Serial Bus (USB) ports, and expansion slots.
 
 Solid-state drives (SSD) store data as electrical charges in semiconductor flash memory. This makes SSDs much faster than magnetic HDDs.
+
+SATA (Serial ATA) drives are one of the most common connection types used for internal storage in desktops and laptops. It supports both traditional HDDs and SSDs. SATA drives use a SATA data cable, shown in the figure, to connect to the motherboard and a separate power cable from the power supply. While SATA SSDs are much faster than HDDs, they are slower than newer technologies like NVMe. These drives are often found in budget systems or as upgrades for older computers.
+
+NVMe (Non-Volatile Memory Express) is a storage protocol that connects directly to the CPU through the PCIe (Peripheral Component Interconnect Express) interface. An NVMe SSD, shown in the figure, is significantly faster than an SATA-based drive and is ideal for tasks that require high-speed data access, such as gaming, video editing, and large file transfers. Most NVMe drives use the M.2 form factor, although some also come as PCIe expansion cards. Using NVMe requires a compatible motherboard and may involve checking BIOS support.
+
+M.2 refers to the physical form factor of a storage device, not the technology it uses. M.2 SSDs can support either SATA or NVMe protocols, depending on the drive and the motherboard slot configuration. These drives plug directly into the motherboard, which eliminates the need for cables and saves space. M.2 drives are commonly used in slim desktops and laptops due to their compact size. It's important to confirm whether the M.2 slot supports SATA, NVMe, or both before installation.
