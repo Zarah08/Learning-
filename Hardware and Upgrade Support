@@ -79,3 +79,5 @@ Update a driver - Change the currently installed driver.
 Roll back a driver - Change the currently installed driver to the previously installed driver.
 Uninstall a driver - Remove a driver.
 Disable a device - Disable a device.
+
+Firmware is built into hardware and controls how devices start and communicate. It runs before the operating system loads and handles tasks like power-on tests and hardware setup.
