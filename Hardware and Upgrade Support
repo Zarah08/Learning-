@@ -87,3 +87,10 @@ The operating system manages system resources such as memory, the CPU, storage, 
 Driver software helps the operating system work with specific hardware like printers or graphics cards. Drivers translate system commands into instructions that hardware understands. Without the right drivers, devices may not work properly.
 
 Application software helps users complete specific tasks like browsing the web, writing documents, playing media, or editing images. It runs above the system layer and gives the computer its practical use for individuals and organizations.
+
+Mistakes in compatibility can lead to:
+
+Parts that physically don’t fit
+Systems that won’t boot
+Wasted time and money on returns
+Potential hardware damage
