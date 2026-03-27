@@ -62,6 +62,8 @@ Diagnostic Reports - Shows test and crash data used for diagnostics
 Mac Analytics Data - Anonymous reports sent to Apple (can include crash data)
 system.log - Ongoing log of system activity, including errors and background tasks.
 
+Mobile device connectivity using bluetooth, NFC, wifi mobile date 
+
 
 
 
