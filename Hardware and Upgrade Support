@@ -111,3 +111,6 @@ NVMe (Non-Volatile Memory Express) is a storage protocol that connects directly 
 M.2 refers to the physical form factor of a storage device, not the technology it uses. M.2 SSDs can support either SATA or NVMe protocols, depending on the drive and the motherboard slot configuration. These drives plug directly into the motherboard, which eliminates the need for cables and saves space. M.2 drives are commonly used in slim desktops and laptops due to their compact size. It's important to confirm whether the M.2 slot supports SATA, NVMe, or both before installation.
 
 Device Manager is a built-in Windows utility that gives users and support technicians a comprehensive view of all hardware components installed on a system. This tool not only shows what hardware is detected by the system, but also provides information on driver status, hardware resources, and device functionality.
+
+Device Manager Status Icon 
+! device has an error but maybe functioning 
