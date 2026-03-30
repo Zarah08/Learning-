@@ -117,3 +117,5 @@ Device Manager Status Icon
 ? The device is disabled 
 ⬇︎ Specific device driver for the device is not available 
 i means driver has been installed manually not automatically so it is not an error code 
+
+Certificate obtained!!
